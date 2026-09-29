@@ -1,0 +1,971 @@
+queue,reason,image,group_id,votes,members_present,final_class
+DELIBERATION,TIE,clip_94_cropped_png,clip_94_cropped_png__group6,"{""Class 1"": 2, ""Extra Class"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,TIE,clip_94_cropped_png,clip_94_cropped_png__group9,"{""Reject Class"": 2, ""Class 2"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 2
+DELIBERATION,TIE,clip_94_cropped_png,clip_94_cropped_png__group14,"{""Class 2"": 2, ""Class 1"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 2
+DELIBERATION,TIE,clip_94_cropped_png,clip_94_cropped_png__group16,"{""Class 2"": 2, ""Reject Class"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Reject Class
+DELIBERATION,TIE,clip_94_cropped_png,clip_94_cropped_png__group17,"{""Class 2"": 2, ""Class 1"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Extra Class
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_94_cropped_png,clip_94_cropped_png__group18,"{""Reject Class"": 1, ""Class 1"": 1, ""Class 2"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 2
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_94_cropped_png,clip_94_cropped_png__group19,"{""Class 2"": 1, ""Extra Class"": 2, ""Class 1"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,TIE,clip_94_cropped_png,clip_94_cropped_png__group23,"{""Class 1"": 2, ""Extra Class"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_9_cropped_png,clip_9_cropped_png__group22,"{""Class 1"": 2, ""Class 2"": 1, ""Reject Class"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Reject Class
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_9_cropped_png,clip_9_cropped_png__group23,"{""Extra Class"": 1, ""Class 1"": 2, ""Reject Class"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,TIE,clip_9_cropped_png,clip_9_cropped_png__group24,"{""Class 1"": 2, ""Class 2"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_9_cropped_png,clip_9_cropped_png__group26,"{""Extra Class"": 1, ""Class 2"": 2, ""Class 1"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,TIE,clip_9_cropped_png,clip_9_cropped_png__group27,"{""Class 2"": 2, ""Class 1"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,TIE,clip_9_cropped_png,clip_9_cropped_png__group29,"{""Class 1"": 2, ""Class 2"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 2
+DELIBERATION,TIE,clip_84_cropped_png,clip_84_cropped_png__group5,"{""Class 1"": 2, ""Extra Class"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_84_cropped_png,clip_84_cropped_png__group6,"{""Extra Class"": 1, ""Class 1"": 2, ""Class 2"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,TIE,clip_84_cropped_png,clip_84_cropped_png__group7,"{""Class 1"": 2, ""Extra Class"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,TIE,clip_84_cropped_png,clip_84_cropped_png__group9,"{""Class 1"": 2, ""Extra Class"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,TIE,clip_84_cropped_png,clip_84_cropped_png__group13,"{""Class 2"": 2, ""Reject Class"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Reject Class
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_84_cropped_png,clip_84_cropped_png__group28,"{""Class 1"": 2, ""Class 2"": 1, ""Extra Class"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_84_cropped_png,clip_84_cropped_png__group29,"{""Class 2"": 2, ""Extra Class"": 1, ""Class 1"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_90_cropped_png,clip_90_cropped_png__group16,"{""Class 2"": 1, ""Class 1"": 2, ""Extra Class"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_90_cropped_png,clip_90_cropped_png__group17,"{""Class 1"": 2, ""Class 2"": 1, ""Reject Class"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 2
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_90_cropped_png,clip_90_cropped_png__group18,"{""Reject Class"": 1, ""Class 2"": 2, ""Class 1"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 2
+DELIBERATION,TIE,clip_90_cropped_png,clip_90_cropped_png__group20,"{""Extra Class"": 2, ""Class 1"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,TIE,clip_90_cropped_png,clip_90_cropped_png__group21,"{""Extra Class"": 2, ""Class 1"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,TIE,clip_90_cropped_png,clip_90_cropped_png__group23,"{""Class 1"": 2, ""Extra Class"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,TIE,clip_90_cropped_png,clip_90_cropped_png__group29,"{""Class 1"": 2, ""Class 2"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 2
+DELIBERATION,TIE,clip_99_cropped_png,clip_99_cropped_png__group7,"{""Class 1"": 2, ""Extra Class"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Extra Class
+DELIBERATION,TIE,clip_99_cropped_png,clip_99_cropped_png__group8,"{""Extra Class"": 2, ""Class 1"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_99_cropped_png,clip_99_cropped_png__group13,"{""Extra Class"": 1, ""Class 2"": 2, ""Reject Class"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 2
+DELIBERATION,TIE,clip_99_cropped_png,clip_99_cropped_png__group14,"{""Class 1"": 2, ""Class 2"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 2
+DELIBERATION,TIE,clip_99_cropped_png,clip_99_cropped_png__group18,"{""Class 2"": 2, ""Class 1"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 2
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_99_cropped_png,clip_99_cropped_png__group19,"{""Class 2"": 1, ""Class 1"": 2, ""Reject Class"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,TIE,clip_99_cropped_png,clip_99_cropped_png__group22,"{""Reject Class"": 2, ""Class 1"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 2
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_99_cropped_png,clip_99_cropped_png__group23,"{""Reject Class"": 1, ""Class 2"": 2, ""Class 1"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 2
+DELIBERATION,TIE,clip_99_cropped_png,clip_99_cropped_png__group24,"{""Reject Class"": 2, ""Class 2"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Reject Class
+DELIBERATION,TIE,clip_99_cropped_png,clip_99_cropped_png__group25,"{""Class 1"": 2, ""Extra Class"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_99_cropped_png,clip_99_cropped_png__group26,"{""Class 1"": 2, ""Extra Class"": 1, ""Reject Class"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,TIE,clip_83_cropped_png,clip_83_cropped_png__group13,"{""Class 1"": 2, ""Class 2"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,TIE,clip_83_cropped_png,clip_83_cropped_png__group14,"{""Class 2"": 2, ""Class 1"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 2
+DELIBERATION,TIE,clip_83_cropped_png,clip_83_cropped_png__group16,"{""Reject Class"": 2, ""Class 2"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 2
+DELIBERATION,TIE,clip_83_cropped_png,clip_83_cropped_png__group17,"{""Extra Class"": 2, ""Class 1"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_83_cropped_png,clip_83_cropped_png__group24,"{""Class 1"": 2, ""Class 2"": 1, ""Extra Class"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 2
+DELIBERATION,TIE,clip_83_cropped_png,clip_83_cropped_png__group28,"{""Class 1"": 2, ""Class 2"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 2
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_95_cropped_png,clip_95_cropped_png__group6,"{""Extra Class"": 2, ""Reject Class"": 1, ""Class 1"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,TIE,clip_95_cropped_png,clip_95_cropped_png__group9,"{""Class 1"": 2, ""Class 2"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 2
+DELIBERATION,TIE,clip_95_cropped_png,clip_95_cropped_png__group10,"{""Class 2"": 2, ""Class 1"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 2
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_95_cropped_png,clip_95_cropped_png__group12,"{""Extra Class"": 2, ""Class 1"": 1, ""Class 2"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 2
+DELIBERATION,TIE,clip_95_cropped_png,clip_95_cropped_png__group15,"{""Extra Class"": 2, ""Class 1"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_95_cropped_png,clip_95_cropped_png__group16,"{""Class 1"": 2, ""Class 2"": 1, ""Extra Class"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_95_cropped_png,clip_95_cropped_png__group17,"{""Class 1"": 2, ""Extra Class"": 1, ""Class 2"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,TIE,clip_95_cropped_png,clip_95_cropped_png__group18,"{""Class 2"": 2, ""Class 1"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 2
+DELIBERATION,TIE,clip_95_cropped_png,clip_95_cropped_png__group19,"{""Extra Class"": 2, ""Class 1"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_95_cropped_png,clip_95_cropped_png__group20,"{""Class 2"": 2, ""Extra Class"": 1, ""Class 1"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 2
+DELIBERATION,TIE,clip_95_cropped_png,clip_95_cropped_png__group22,"{""Extra Class"": 2, ""Class 1"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_95_cropped_png,clip_95_cropped_png__group24,"{""Class 2"": 2, ""Class 1"": 1, ""Extra Class"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 2
+DELIBERATION,TIE,clip_95_cropped_png,clip_95_cropped_png__group26,"{""Class 2"": 2, ""Class 1"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 2
+DELIBERATION,TIE,clip_95_cropped_png,clip_95_cropped_png__group29,"{""Class 1"": 2, ""Extra Class"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Extra Class
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_93_cropped_png,clip_93_cropped_png__group4,"{""Reject Class"": 2, ""Class 2"": 1, ""Class 1"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Reject Class
+DELIBERATION,TIE,clip_93_cropped_png,clip_93_cropped_png__group14,"{""Class 1"": 2, ""Class 2"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,TIE,clip_93_cropped_png,clip_93_cropped_png__group15,"{""Class 2"": 2, ""Class 1"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,TIE,clip_93_cropped_png,clip_93_cropped_png__group20,"{""Class 1"": 2, ""Class 2"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 2
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_93_cropped_png,clip_93_cropped_png__group27,"{""Class 2"": 2, ""Extra Class"": 1, ""Class 1"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 2
+DELIBERATION,TIE,clip_93_cropped_png,clip_93_cropped_png__group28,"{""Class 2"": 2, ""Class 1"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 2
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_93_cropped_png,clip_93_cropped_png__group29,"{""Class 1"": 2, ""Class 2"": 1, ""Reject Class"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 2
+DELIBERATION,TIE,clip_93_cropped_png,clip_93_cropped_png__group30,"{""Extra Class"": 2, ""Class 1"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 2
+DELIBERATION,TIE,clip_85_cropped_png,clip_85_cropped_png__group8,"{""Extra Class"": 2, ""Class 1"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_85_cropped_png,clip_85_cropped_png__group9,"{""Extra Class"": 2, ""Reject Class"": 1, ""Class 1"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,TIE,clip_85_cropped_png,clip_85_cropped_png__group13,"{""Class 2"": 2, ""Reject Class"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Reject Class
+DELIBERATION,TIE,clip_85_cropped_png,clip_85_cropped_png__group14,"{""Reject Class"": 2, ""Class 2"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Reject Class
+DELIBERATION,TIE,clip_85_cropped_png,clip_85_cropped_png__group16,"{""Class 2"": 2, ""Class 1"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_85_cropped_png,clip_85_cropped_png__group17,"{""Class 2"": 2, ""Class 1"": 1, ""Reject Class"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Reject Class
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_85_cropped_png,clip_85_cropped_png__group19,"{""Class 1"": 2, ""Class 2"": 1, ""Extra Class"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,TIE,clip_85_cropped_png,clip_85_cropped_png__group21,"{""Class 2"": 2, ""Class 1"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 2
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_85_cropped_png,clip_85_cropped_png__group22,"{""Reject Class"": 2, ""Class 2"": 1, ""Class 1"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Reject Class
+DELIBERATION,TIE,clip_85_cropped_png,clip_85_cropped_png__group23,"{""Extra Class"": 2, ""Class 1"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Extra Class
+DELIBERATION,TIE,clip_85_cropped_png,clip_85_cropped_png__group29,"{""Extra Class"": 2, ""Class 1"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Extra Class
+DELIBERATION,TIE,clip_92_cropped_png,clip_92_cropped_png__group4,"{""Class 1"": 2, ""Extra Class"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_92_cropped_png,clip_92_cropped_png__group7,"{""Class 1"": 1, ""Class 2"": 1, ""Extra Class"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 2
+DELIBERATION,TIE,clip_92_cropped_png,clip_92_cropped_png__group13,"{""Class 2"": 2, ""Class 1"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 2
+DELIBERATION,TIE,clip_92_cropped_png,clip_92_cropped_png__group14,"{""Extra Class"": 2, ""Class 1"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_92_cropped_png,clip_92_cropped_png__group16,"{""Class 1"": 2, ""Reject Class"": 1, ""Extra Class"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Reject Class
+DELIBERATION,TIE,clip_92_cropped_png,clip_92_cropped_png__group17,"{""Class 1"": 2, ""Extra Class"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_92_cropped_png,clip_92_cropped_png__group18,"{""Class 1"": 2, ""Extra Class"": 1, ""Class 2"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 2
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_92_cropped_png,clip_92_cropped_png__group20,"{""Class 1"": 2, ""Class 2"": 1, ""Extra Class"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_92_cropped_png,clip_92_cropped_png__group22,"{""Extra Class"": 2, ""Class 1"": 1, ""Class 2"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_92_cropped_png,clip_92_cropped_png__group23,"{""Class 1"": 2, ""Extra Class"": 1, ""Class 2"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,TIE,clip_92_cropped_png,clip_92_cropped_png__group26,"{""Class 1"": 2, ""Extra Class"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_92_cropped_png,clip_92_cropped_png__group27,"{""Reject Class"": 2, ""Class 2"": 1, ""Class 1"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Reject Class
+DELIBERATION,TIE,clip_87_cropped_png,clip_87_cropped_png__group14,"{""Reject Class"": 2, ""Class 2"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Reject Class
+DELIBERATION,TIE,clip_87_cropped_png,clip_87_cropped_png__group18,"{""Class 1"": 2, ""Extra Class"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,TIE,clip_87_cropped_png,clip_87_cropped_png__group19,"{""Extra Class"": 2, ""Class 1"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,TIE,clip_87_cropped_png,clip_87_cropped_png__group22,"{""Class 2"": 2, ""Class 1"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_87_cropped_png,clip_87_cropped_png__group23,"{""Class 2"": 1, ""Extra Class"": 1, ""Class 1"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 2
+DELIBERATION,TIE,clip_87_cropped_png,clip_87_cropped_png__group24,"{""Class 1"": 2, ""Extra Class"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Extra Class
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_87_cropped_png,clip_87_cropped_png__group26,"{""Extra Class"": 1, ""Class 1"": 2, ""Class 2"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_87_cropped_png,clip_87_cropped_png__group29,"{""Class 1"": 1, ""Extra Class"": 2, ""Class 2"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_8_cropped_png,clip_8_cropped_png__group4,"{""Class 1"": 2, ""Class 2"": 1, ""Extra Class"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 2
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_8_cropped_png,clip_8_cropped_png__group10,"{""Reject Class"": 1, ""Class 2"": 2, ""Class 1"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Reject Class
+DELIBERATION,TIE,clip_8_cropped_png,clip_8_cropped_png__group13,"{""Class 2"": 2, ""Reject Class"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Reject Class
+DELIBERATION,TIE,clip_8_cropped_png,clip_8_cropped_png__group15,"{""Class 1"": 2, ""Class 2"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 2
+DELIBERATION,TIE,clip_8_cropped_png,clip_8_cropped_png__group21,"{""Class 2"": 2, ""Class 1"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 2
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_8_cropped_png,clip_8_cropped_png__group23,"{""Class 2"": 1, ""Class 1"": 2, ""Extra Class"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,TIE,clip_8_cropped_png,clip_8_cropped_png__group26,"{""Class 1"": 2, ""Class 2"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 2
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_8_cropped_png,clip_8_cropped_png__group28,"{""Reject Class"": 2, ""Class 2"": 1, ""Class 1"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 2
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_8_cropped_png,clip_8_cropped_png__group29,"{""Extra Class"": 1, ""Class 1"": 2, ""Class 2"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,TIE,clip_97_cropped_png,clip_97_cropped_png__group11,"{""Reject Class"": 2, ""Class 2"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Reject Class
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_97_cropped_png,clip_97_cropped_png__group18,"{""Extra Class"": 2, ""Class 2"": 1, ""Class 1"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Extra Class
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_97_cropped_png,clip_97_cropped_png__group19,"{""Class 1"": 2, ""Extra Class"": 1, ""Class 2"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_97_cropped_png,clip_97_cropped_png__group24,"{""Class 2"": 2, ""Class 1"": 1, ""Reject Class"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 2
+DELIBERATION,TIE,clip_97_cropped_png,clip_97_cropped_png__group28,"{""Class 2"": 2, ""Class 1"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 2
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_89_cropped_png,clip_89_cropped_png__group5,"{""Extra Class"": 2, ""Class 2"": 1, ""Class 1"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,TIE,clip_89_cropped_png,clip_89_cropped_png__group24,"{""Class 1"": 2, ""Class 2"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 2
+DELIBERATION,TIE,clip_98_cropped_png,clip_98_cropped_png__group8,"{""Class 1"": 2, ""Class 2"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 2
+DELIBERATION,TIE,clip_98_cropped_png,clip_98_cropped_png__group9,"{""Class 1"": 2, ""Extra Class"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_98_cropped_png,clip_98_cropped_png__group11,"{""Class 1"": 1, ""Class 2"": 2, ""Extra Class"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 2
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_98_cropped_png,clip_98_cropped_png__group18,"{""Class 1"": 1, ""Class 2"": 2, ""Reject Class"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 2
+DELIBERATION,SPLIT_MINORITY,clip_98_cropped_png,clip_98_cropped_png__group20,"{""Reject Class"": 1, ""Extra Class"": 2, ""Class 2"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Reject Class
+DELIBERATION,TIE,clip_98_cropped_png,clip_98_cropped_png__group21,"{""Class 2"": 2, ""Extra Class"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,TIE,clip_98_cropped_png,clip_98_cropped_png__group22,"{""Extra Class"": 2, ""Class 1"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Extra Class
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_98_cropped_png,clip_98_cropped_png__group25,"{""Extra Class"": 1, ""Class 2"": 2, ""Class 1"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,TIE,clip_98_cropped_png,clip_98_cropped_png__group26,"{""Class 2"": 2, ""Class 1"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 2
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_98_cropped_png,clip_98_cropped_png__group27,"{""Reject Class"": 2, ""Class 2"": 1, ""Class 1"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 2
+DELIBERATION,TIE,clip_98_cropped_png,clip_98_cropped_png__group29,"{""Extra Class"": 2, ""Class 1"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,TIE,clip_96_cropped_png,clip_96_cropped_png__group2,"{""Class 1"": 2, ""Extra Class"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,TIE,clip_96_cropped_png,clip_96_cropped_png__group7,"{""Class 1"": 2, ""Extra Class"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Extra Class
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_96_cropped_png,clip_96_cropped_png__group9,"{""Class 2"": 2, ""Reject Class"": 1, ""Class 1"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 2
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_96_cropped_png,clip_96_cropped_png__group11,"{""Class 1"": 1, ""Class 2"": 2, ""Reject Class"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 2
+DELIBERATION,TIE,clip_96_cropped_png,clip_96_cropped_png__group13,"{""Reject Class"": 2, ""Class 2"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 2
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_96_cropped_png,clip_96_cropped_png__group16,"{""Class 1"": 1, ""Extra Class"": 2, ""Class 2"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 2
+DELIBERATION,TIE,clip_96_cropped_png,clip_96_cropped_png__group20,"{""Class 1"": 2, ""Class 2"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 2
+DELIBERATION,TIE,clip_96_cropped_png,clip_96_cropped_png__group21,"{""Class 1"": 2, ""Extra Class"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,TIE,clip_96_cropped_png,clip_96_cropped_png__group22,"{""Class 1"": 2, ""Extra Class"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,TIE,clip_96_cropped_png,clip_96_cropped_png__group23,"{""Class 1"": 2, ""Class 2"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_96_cropped_png,clip_96_cropped_png__group24,"{""Class 2"": 2, ""Class 1"": 1, ""Extra Class"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_96_cropped_png,clip_96_cropped_png__group25,"{""Reject Class"": 1, ""Class 2"": 2, ""Class 1"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 2
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_96_cropped_png,clip_96_cropped_png__group27,"{""Class 1"": 2, ""Class 2"": 1, ""Extra Class"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_96_cropped_png,clip_96_cropped_png__group29,"{""Extra Class"": 1, ""Class 1"": 2, ""Class 2"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,TIE,clip_102_cropped_png,clip_102_cropped_png__group5,"{""Reject Class"": 2, ""Class 2"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Reject Class
+DELIBERATION,TIE,clip_102_cropped_png,clip_102_cropped_png__group8,"{""Class 2"": 2, ""Class 1"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 2
+DELIBERATION,TIE,clip_102_cropped_png,clip_102_cropped_png__group11,"{""Class 1"": 2, ""Extra Class"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,TIE,clip_102_cropped_png,clip_102_cropped_png__group12,"{""Extra Class"": 2, ""Class 1"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,TIE,clip_102_cropped_png,clip_102_cropped_png__group13,"{""Extra Class"": 2, ""Class 1"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Extra Class
+DELIBERATION,TIE,clip_102_cropped_png,clip_102_cropped_png__group14,"{""Extra Class"": 2, ""Class 1"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,TIE,clip_102_cropped_png,clip_102_cropped_png__group18,"{""Extra Class"": 2, ""Class 1"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,TIE,clip_102_cropped_png,clip_102_cropped_png__group19,"{""Class 1"": 2, ""Extra Class"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,TIE,clip_102_cropped_png,clip_102_cropped_png__group21,"{""Class 2"": 2, ""Class 1"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 2
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_102_cropped_png,clip_102_cropped_png__group23,"{""Extra Class"": 1, ""Class 1"": 2, ""Class 2"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_102_cropped_png,clip_102_cropped_png__group24,"{""Class 2"": 2, ""Class 1"": 1, ""Extra Class"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 2
+DELIBERATION,TIE,clip_102_cropped_png,clip_102_cropped_png__group25,"{""Class 2"": 2, ""Class 1"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 2
+DELIBERATION,TIE,clip_102_cropped_png,clip_102_cropped_png__group28,"{""Extra Class"": 2, ""Class 1"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_102_cropped_png,clip_102_cropped_png__group29,"{""Class 1"": 2, ""Class 2"": 1, ""Reject Class"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 2
+DELIBERATION,TIE,clip_12_cropped_png,clip_12_cropped_png__group2,"{""Class 1"": 2, ""Extra Class"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Extra Class
+DELIBERATION,TIE,clip_12_cropped_png,clip_12_cropped_png__group7,"{""Class 1"": 2, ""Extra Class"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_12_cropped_png,clip_12_cropped_png__group9,"{""Class 1"": 2, ""Reject Class"": 1, ""Extra Class"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 2
+DELIBERATION,TIE,clip_12_cropped_png,clip_12_cropped_png__group12,"{""Extra Class"": 2, ""Class 1"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,TIE,clip_12_cropped_png,clip_12_cropped_png__group15,"{""Class 1"": 2, ""Class 2"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,TIE,clip_12_cropped_png,clip_12_cropped_png__group16,"{""Class 2"": 2, ""Class 1"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 2
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_12_cropped_png,clip_12_cropped_png__group21,"{""Class 2"": 2, ""Reject Class"": 1, ""Extra Class"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 2
+DELIBERATION,TIE,clip_88_cropped_png,clip_88_cropped_png__group9,"{""Class 1"": 2, ""Extra Class"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_88_cropped_png,clip_88_cropped_png__group11,"{""Class 1"": 1, ""Extra Class"": 2, ""Class 2"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,TIE,clip_88_cropped_png,clip_88_cropped_png__group21,"{""Extra Class"": 2, ""Class 1"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Extra Class
+DELIBERATION,SPLIT_MINORITY,clip_88_cropped_png,clip_88_cropped_png__group22,"{""Reject Class"": 2, ""Extra Class"": 1, ""Class 1"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,TIE,clip_88_cropped_png,clip_88_cropped_png__group24,"{""Class 1"": 2, ""Class 2"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 2
+DELIBERATION,TIE,clip_88_cropped_png,clip_88_cropped_png__group26,"{""Class 1"": 2, ""Class 2"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_20_cropped_png,clip_20_cropped_png__group6,"{""Extra Class"": 2, ""Class 2"": 1, ""Class 1"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,TIE,clip_20_cropped_png,clip_20_cropped_png__group7,"{""Extra Class"": 2, ""Class 1"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_20_cropped_png,clip_20_cropped_png__group10,"{""Class 1"": 2, ""Class 2"": 1, ""Extra Class"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_20_cropped_png,clip_20_cropped_png__group13,"{""Extra Class"": 1, ""Class 2"": 1, ""Class 1"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,TIE,clip_20_cropped_png,clip_20_cropped_png__group16,"{""Class 1"": 2, ""Extra Class"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,TIE,clip_20_cropped_png,clip_20_cropped_png__group20,"{""Class 2"": 2, ""Class 1"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 2
+DELIBERATION,TIE,clip_20_cropped_png,clip_20_cropped_png__group22,"{""Reject Class"": 2, ""Class 2"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Reject Class
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_20_cropped_png,clip_20_cropped_png__group24,"{""Class 2"": 2, ""Class 1"": 1, ""Reject Class"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 2
+DELIBERATION,TIE,clip_20_cropped_png,clip_20_cropped_png__group25,"{""Class 2"": 2, ""Class 1"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 2
+DELIBERATION,TIE,clip_108_cropped_png,clip_108_cropped_png__group13,"{""Extra Class"": 2, ""Class 1"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,TIE,clip_108_cropped_png,clip_108_cropped_png__group17,"{""Reject Class"": 2, ""Class 2"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Reject Class
+DELIBERATION,TIE,clip_108_cropped_png,clip_108_cropped_png__group18,"{""Class 2"": 2, ""Reject Class"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 2
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_108_cropped_png,clip_108_cropped_png__group20,"{""Extra Class"": 1, ""Reject Class"": 1, ""Class 1"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,TIE,clip_108_cropped_png,clip_108_cropped_png__group23,"{""Extra Class"": 2, ""Class 1"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Extra Class
+DELIBERATION,TIE,clip_108_cropped_png,clip_108_cropped_png__group26,"{""Class 1"": 2, ""Class 2"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 2
+DELIBERATION,TIE,clip_108_cropped_png,clip_108_cropped_png__group29,"{""Class 2"": 2, ""Class 1"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,TIE,clip_21_cropped_png,clip_21_cropped_png__group13,"{""Class 1"": 2, ""Class 2"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 2
+DELIBERATION,TIE,clip_21_cropped_png,clip_21_cropped_png__group18,"{""Class 1"": 2, ""Extra Class"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_21_cropped_png,clip_21_cropped_png__group21,"{""Class 2"": 1, ""Class 1"": 2, ""Extra Class"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_21_cropped_png,clip_21_cropped_png__group22,"{""Class 2"": 1, ""Class 1"": 2, ""Extra Class"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,TIE,clip_21_cropped_png,clip_21_cropped_png__group23,"{""Class 2"": 2, ""Class 1"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,TIE,clip_21_cropped_png,clip_21_cropped_png__group25,"{""Class 2"": 2, ""Class 1"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 2
+DELIBERATION,TIE,clip_21_cropped_png,clip_21_cropped_png__group26,"{""Class 2"": 2, ""Class 1"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 2
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_21_cropped_png,clip_21_cropped_png__group28,"{""Extra Class"": 1, ""Class 1"": 2, ""Class 2"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,TIE,clip_21_cropped_png,clip_21_cropped_png__group29,"{""Class 1"": 2, ""Class 2"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 2
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_100_cropped_png,clip_100_cropped_png__group4,"{""Reject Class"": 1, ""Class 1"": 2, ""Class 2"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Reject Class
+DELIBERATION,TIE,clip_100_cropped_png,clip_100_cropped_png__group16,"{""Class 2"": 2, ""Class 1"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 2
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_100_cropped_png,clip_100_cropped_png__group18,"{""Extra Class"": 1, ""Class 1"": 2, ""Class 2"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 2
+DELIBERATION,TIE,clip_100_cropped_png,clip_100_cropped_png__group25,"{""Reject Class"": 2, ""Class 2"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Reject Class
+DELIBERATION,TIE,clip_100_cropped_png,clip_100_cropped_png__group26,"{""Class 2"": 2, ""Reject Class"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Reject Class
+DELIBERATION,TIE,clip_100_cropped_png,clip_100_cropped_png__group27,"{""Class 2"": 2, ""Reject Class"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Reject Class
+DELIBERATION,TIE,clip_86_cropped_png,clip_86_cropped_png__group2,"{""Reject Class"": 2, ""Class 2"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Reject Class
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_86_cropped_png,clip_86_cropped_png__group18,"{""Class 1"": 2, ""Reject Class"": 1, ""Extra Class"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,TIE,clip_86_cropped_png,clip_86_cropped_png__group20,"{""Extra Class"": 2, ""Class 1"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,TIE,clip_86_cropped_png,clip_86_cropped_png__group21,"{""Class 2"": 2, ""Class 1"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_86_cropped_png,clip_86_cropped_png__group24,"{""Class 1"": 1, ""Extra Class"": 2, ""Class 2"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_86_cropped_png,clip_86_cropped_png__group29,"{""Reject Class"": 1, ""Class 1"": 2, ""Class 2"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Reject Class
+DELIBERATION,TIE,clip_82_cropped_png,clip_82_cropped_png__group11,"{""Reject Class"": 2, ""Class 2"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Reject Class
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_82_cropped_png,clip_82_cropped_png__group15,"{""Class 2"": 1, ""Class 1"": 1, ""Extra Class"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,TIE,clip_82_cropped_png,clip_82_cropped_png__group19,"{""Class 1"": 2, ""Extra Class"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_82_cropped_png,clip_82_cropped_png__group20,"{""Class 1"": 2, ""Extra Class"": 1, ""Class 2"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Extra Class
+DELIBERATION,TIE,clip_82_cropped_png,clip_82_cropped_png__group21,"{""Class 2"": 2, ""Class 1"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 2
+DELIBERATION,TIE,clip_82_cropped_png,clip_82_cropped_png__group27,"{""Class 1"": 2, ""Class 2"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,TIE,clip_82_cropped_png,clip_82_cropped_png__group28,"{""Class 2"": 2, ""Class 1"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,TIE,clip_82_cropped_png,clip_82_cropped_png__group29,"{""Class 2"": 2, ""Class 1"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,TIE,clip_103_cropped_png,clip_103_cropped_png__group5,"{""Class 1"": 2, ""Class 2"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_103_cropped_png,clip_103_cropped_png__group9,"{""Class 2"": 1, ""Class 1"": 2, ""Extra Class"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_103_cropped_png,clip_103_cropped_png__group14,"{""Extra Class"": 1, ""Class 2"": 1, ""Class 1"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_103_cropped_png,clip_103_cropped_png__group19,"{""Class 2"": 1, ""Class 1"": 2, ""Reject Class"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Reject Class
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_103_cropped_png,clip_103_cropped_png__group26,"{""Extra Class"": 1, ""Class 2"": 1, ""Class 1"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,TIE,clip_103_cropped_png,clip_103_cropped_png__group28,"{""Class 1"": 2, ""Class 2"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 2
+DELIBERATION,TIE,clip_101_cropped_png,clip_101_cropped_png__group9,"{""Class 2"": 2, ""Reject Class"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Reject Class
+DELIBERATION,TIE,clip_101_cropped_png,clip_101_cropped_png__group14,"{""Class 1"": 2, ""Class 2"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 2
+DELIBERATION,TIE,clip_101_cropped_png,clip_101_cropped_png__group17,"{""Class 2"": 2, ""Class 1"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,TIE,clip_101_cropped_png,clip_101_cropped_png__group18,"{""Class 2"": 2, ""Class 1"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 2
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_101_cropped_png,clip_101_cropped_png__group20,"{""Class 2"": 1, ""Extra Class"": 1, ""Class 1"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_101_cropped_png,clip_101_cropped_png__group21,"{""Class 2"": 2, ""Class 1"": 1, ""Extra Class"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_101_cropped_png,clip_101_cropped_png__group28,"{""Class 2"": 2, ""Reject Class"": 1, ""Class 1"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 2
+DELIBERATION,TIE,clip_101_cropped_png,clip_101_cropped_png__group29,"{""Class 1"": 2, ""Class 2"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,TIE,clip_15_cropped_png,clip_15_cropped_png__group7,"{""Class 1"": 2, ""Class 2"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,TIE,clip_15_cropped_png,clip_15_cropped_png__group11,"{""Extra Class"": 2, ""Class 1"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Extra Class
+DELIBERATION,TIE,clip_15_cropped_png,clip_15_cropped_png__group13,"{""Class 2"": 2, ""Class 1"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_15_cropped_png,clip_15_cropped_png__group15,"{""Class 2"": 1, ""Extra Class"": 1, ""Class 1"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,TIE,clip_15_cropped_png,clip_15_cropped_png__group18,"{""Class 1"": 2, ""Class 2"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_15_cropped_png,clip_15_cropped_png__group20,"{""Reject Class"": 1, ""Class 2"": 2, ""Class 1"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 2
+DELIBERATION,TIE,clip_15_cropped_png,clip_15_cropped_png__group23,"{""Extra Class"": 2, ""Class 1"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_15_cropped_png,clip_15_cropped_png__group26,"{""Class 2"": 2, ""Reject Class"": 1, ""Class 1"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 2
+DELIBERATION,TIE,clip_15_cropped_png,clip_15_cropped_png__group29,"{""Reject Class"": 2, ""Class 2"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Reject Class
+DELIBERATION,TIE,clip_11_cropped_png,clip_11_cropped_png__group8,"{""Class 2"": 2, ""Reject Class"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 2
+DELIBERATION,TIE,clip_11_cropped_png,clip_11_cropped_png__group10,"{""Class 1"": 2, ""Class 2"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,TIE,clip_11_cropped_png,clip_11_cropped_png__group15,"{""Class 2"": 2, ""Class 1"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 2
+DELIBERATION,TIE,clip_11_cropped_png,clip_11_cropped_png__group16,"{""Extra Class"": 2, ""Class 1"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,TIE,clip_11_cropped_png,clip_11_cropped_png__group18,"{""Extra Class"": 2, ""Class 1"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 2
+DELIBERATION,TIE,clip_11_cropped_png,clip_11_cropped_png__group19,"{""Extra Class"": 2, ""Class 1"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_11_cropped_png,clip_11_cropped_png__group22,"{""Extra Class"": 1, ""Class 1"": 2, ""Class 2"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_11_cropped_png,clip_11_cropped_png__group24,"{""Class 1"": 2, ""Class 2"": 1, ""Extra Class"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_11_cropped_png,clip_11_cropped_png__group25,"{""Class 1"": 2, ""Class 2"": 1, ""Extra Class"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,TIE,clip_11_cropped_png,clip_11_cropped_png__group26,"{""Extra Class"": 2, ""Class 1"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,TIE,clip_11_cropped_png,clip_11_cropped_png__group28,"{""Class 2"": 2, ""Class 1"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 2
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_110_cropped_png,clip_110_cropped_png__group8,"{""Class 1"": 2, ""Extra Class"": 1, ""Class 2"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_110_cropped_png,clip_110_cropped_png__group9,"{""Class 1"": 1, ""Extra Class"": 2, ""Class 2"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Extra Class
+DELIBERATION,TIE,clip_110_cropped_png,clip_110_cropped_png__group10,"{""Class 1"": 2, ""Extra Class"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Extra Class
+DELIBERATION,TIE,clip_110_cropped_png,clip_110_cropped_png__group11,"{""Class 1"": 2, ""Extra Class"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,TIE,clip_110_cropped_png,clip_110_cropped_png__group13,"{""Extra Class"": 2, ""Class 1"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,TIE,clip_110_cropped_png,clip_110_cropped_png__group14,"{""Extra Class"": 2, ""Class 1"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Extra Class
+DELIBERATION,TIE,clip_110_cropped_png,clip_110_cropped_png__group15,"{""Class 2"": 2, ""Class 1"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_110_cropped_png,clip_110_cropped_png__group17,"{""Class 1"": 2, ""Class 2"": 1, ""Extra Class"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,TIE,clip_110_cropped_png,clip_110_cropped_png__group18,"{""Class 1"": 2, ""Class 2"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_110_cropped_png,clip_110_cropped_png__group19,"{""Class 1"": 1, ""Class 2"": 2, ""Reject Class"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Reject Class
+DELIBERATION,TIE,clip_110_cropped_png,clip_110_cropped_png__group20,"{""Class 1"": 2, ""Extra Class"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,TIE,clip_110_cropped_png,clip_110_cropped_png__group21,"{""Class 1"": 2, ""Class 2"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,TIE,clip_110_cropped_png,clip_110_cropped_png__group22,"{""Class 1"": 2, ""Class 2"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_110_cropped_png,clip_110_cropped_png__group24,"{""Class 2"": 1, ""Extra Class"": 2, ""Class 1"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,TIE,clip_29_cropped_png,clip_29_cropped_png__group13,"{""Class 2"": 2, ""Class 1"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 2
+DELIBERATION,TIE,clip_29_cropped_png,clip_29_cropped_png__group14,"{""Class 1"": 2, ""Extra Class"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Extra Class
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_29_cropped_png,clip_29_cropped_png__group15,"{""Class 1"": 2, ""Extra Class"": 1, ""Class 2"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,TIE,clip_29_cropped_png,clip_29_cropped_png__group16,"{""Class 1"": 2, ""Extra Class"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_29_cropped_png,clip_29_cropped_png__group22,"{""Extra Class"": 1, ""Class 1"": 2, ""Class 2"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,TIE,clip_29_cropped_png,clip_29_cropped_png__group24,"{""Class 1"": 2, ""Extra Class"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_29_cropped_png,clip_29_cropped_png__group25,"{""Class 1"": 1, ""Class 2"": 1, ""Extra Class"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 2
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_29_cropped_png,clip_29_cropped_png__group26,"{""Class 1"": 2, ""Class 2"": 1, ""Extra Class"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_29_cropped_png,clip_29_cropped_png__group30,"{""Class 2"": 1, ""Class 1"": 2, ""Extra Class"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,TIE,clip_106_cropped_png,clip_106_cropped_png__group7,"{""Class 1"": 2, ""Extra Class"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,TIE,clip_106_cropped_png,clip_106_cropped_png__group10,"{""Extra Class"": 2, ""Class 1"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_106_cropped_png,clip_106_cropped_png__group12,"{""Class 2"": 1, ""Reject Class"": 2, ""Class 1"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Reject Class
+DELIBERATION,TIE,clip_106_cropped_png,clip_106_cropped_png__group13,"{""Class 2"": 2, ""Reject Class"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 2
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_106_cropped_png,clip_106_cropped_png__group15,"{""Class 2"": 2, ""Class 1"": 1, ""Reject Class"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 2
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_106_cropped_png,clip_106_cropped_png__group20,"{""Extra Class"": 2, ""Class 2"": 1, ""Class 1"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Extra Class
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_106_cropped_png,clip_106_cropped_png__group23,"{""Class 1"": 2, ""Extra Class"": 1, ""Class 2"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,TIE,clip_106_cropped_png,clip_106_cropped_png__group25,"{""Class 1"": 2, ""Class 2"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,TIE,clip_106_cropped_png,clip_106_cropped_png__group26,"{""Class 1"": 2, ""Extra Class"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_106_cropped_png,clip_106_cropped_png__group27,"{""Class 1"": 1, ""Reject Class"": 1, ""Class 2"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Reject Class
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_14_cropped_png,clip_14_cropped_png__group2,"{""Reject Class"": 2, ""Class 1"": 1, ""Class 2"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Reject Class
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_14_cropped_png,clip_14_cropped_png__group7,"{""Class 2"": 1, ""Extra Class"": 2, ""Class 1"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Extra Class
+DELIBERATION,TIE,clip_14_cropped_png,clip_14_cropped_png__group14,"{""Reject Class"": 2, ""Class 2"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Reject Class
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_14_cropped_png,clip_14_cropped_png__group15,"{""Class 2"": 2, ""Reject Class"": 1, ""Class 1"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 2
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_14_cropped_png,clip_14_cropped_png__group16,"{""Class 1"": 2, ""Class 2"": 1, ""Extra Class"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_14_cropped_png,clip_14_cropped_png__group20,"{""Class 1"": 2, ""Extra Class"": 1, ""Class 2"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,TIE,clip_14_cropped_png,clip_14_cropped_png__group21,"{""Class 2"": 2, ""Class 1"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,TIE,clip_14_cropped_png,clip_14_cropped_png__group24,"{""Class 2"": 2, ""Reject Class"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Reject Class
+DELIBERATION,TIE,clip_14_cropped_png,clip_14_cropped_png__group25,"{""Class 1"": 2, ""Class 2"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 2
+DELIBERATION,TIE,clip_14_cropped_png,clip_14_cropped_png__group27,"{""Class 1"": 2, ""Class 2"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 2
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_14_cropped_png,clip_14_cropped_png__group28,"{""Reject Class"": 1, ""Class 1"": 1, ""Class 2"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 2
+DELIBERATION,TIE,clip_14_cropped_png,clip_14_cropped_png__group29,"{""Class 1"": 2, ""Extra Class"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,TIE,clip_22_cropped_png,clip_22_cropped_png__group1,"{""Extra Class"": 2, ""Class 1"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,TIE,clip_22_cropped_png,clip_22_cropped_png__group3,"{""Class 1"": 2, ""Extra Class"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_22_cropped_png,clip_22_cropped_png__group9,"{""Class 2"": 1, ""Class 1"": 2, ""Extra Class"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,TIE,clip_22_cropped_png,clip_22_cropped_png__group14,"{""Class 2"": 2, ""Class 1"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,TIE,clip_22_cropped_png,clip_22_cropped_png__group17,"{""Class 1"": 2, ""Class 2"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_22_cropped_png,clip_22_cropped_png__group18,"{""Class 1"": 2, ""Extra Class"": 1, ""Class 2"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,TIE,clip_22_cropped_png,clip_22_cropped_png__group19,"{""Class 1"": 2, ""Class 2"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 2
+DELIBERATION,TIE,clip_22_cropped_png,clip_22_cropped_png__group21,"{""Reject Class"": 2, ""Class 2"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Reject Class
+DELIBERATION,TIE,clip_22_cropped_png,clip_22_cropped_png__group22,"{""Class 2"": 2, ""Reject Class"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 2
+DELIBERATION,TIE,clip_22_cropped_png,clip_22_cropped_png__group27,"{""Class 1"": 2, ""Class 2"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_22_cropped_png,clip_22_cropped_png__group28,"{""Class 2"": 2, ""Reject Class"": 1, ""Class 1"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 2
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_1_cropped_png,clip_1_cropped_png__group0,"{""Class 1"": 2, ""Extra Class"": 1, ""Class 2"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_1_cropped_png,clip_1_cropped_png__group1,"{""Extra Class"": 1, ""Class 2"": 1, ""Class 1"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_1_cropped_png,clip_1_cropped_png__group7,"{""Class 2"": 1, ""Extra Class"": 2, ""Class 1"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Extra Class
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_1_cropped_png,clip_1_cropped_png__group8,"{""Class 1"": 2, ""Class 2"": 1, ""Extra Class"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,TIE,clip_1_cropped_png,clip_1_cropped_png__group12,"{""Class 2"": 2, ""Class 1"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 2
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_1_cropped_png,clip_1_cropped_png__group13,"{""Class 1"": 2, ""Class 2"": 1, ""Extra Class"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_1_cropped_png,clip_1_cropped_png__group14,"{""Class 2"": 1, ""Class 1"": 1, ""Extra Class"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Extra Class
+DELIBERATION,TIE,clip_1_cropped_png,clip_1_cropped_png__group19,"{""Class 1"": 2, ""Class 2"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 2
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_1_cropped_png,clip_1_cropped_png__group21,"{""Class 2"": 1, ""Extra Class"": 2, ""Class 1"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,TIE,clip_1_cropped_png,clip_1_cropped_png__group22,"{""Reject Class"": 2, ""Class 2"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Reject Class
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_1_cropped_png,clip_1_cropped_png__group25,"{""Class 2"": 2, ""Class 1"": 1, ""Reject Class"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 2
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_1_cropped_png,clip_1_cropped_png__group26,"{""Class 2"": 2, ""Class 1"": 1, ""Reject Class"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 2
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_1_cropped_png,clip_1_cropped_png__group28,"{""Class 2"": 2, ""Class 1"": 1, ""Reject Class"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 2
+DELIBERATION,TIE,clip_91_cropped_png,clip_91_cropped_png__group3,"{""Class 2"": 2, ""Reject Class"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Reject Class
+DELIBERATION,TIE,clip_91_cropped_png,clip_91_cropped_png__group5,"{""Class 2"": 2, ""Class 1"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_91_cropped_png,clip_91_cropped_png__group7,"{""Reject Class"": 2, ""Class 1"": 1, ""Class 2"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Reject Class
+DELIBERATION,TIE,clip_91_cropped_png,clip_91_cropped_png__group9,"{""Class 2"": 2, ""Reject Class"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 2
+DELIBERATION,TIE,clip_91_cropped_png,clip_91_cropped_png__group22,"{""Extra Class"": 2, ""Class 2"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,TIE,clip_91_cropped_png,clip_91_cropped_png__group23,"{""Class 1"": 2, ""Class 2"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 2
+DELIBERATION,TIE,clip_91_cropped_png,clip_91_cropped_png__group25,"{""Extra Class"": 2, ""Class 1"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,TIE,clip_24_cropped_png,clip_24_cropped_png__group9,"{""Class 1"": 2, ""Extra Class"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_24_cropped_png,clip_24_cropped_png__group14,"{""Class 2"": 1, ""Extra Class"": 1, ""Class 1"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,TIE,clip_24_cropped_png,clip_24_cropped_png__group15,"{""Class 1"": 2, ""Extra Class"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Extra Class
+DELIBERATION,TIE,clip_24_cropped_png,clip_24_cropped_png__group16,"{""Class 2"": 2, ""Class 1"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 2
+DELIBERATION,TIE,clip_24_cropped_png,clip_24_cropped_png__group17,"{""Class 1"": 2, ""Class 2"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,TIE,clip_24_cropped_png,clip_24_cropped_png__group20,"{""Class 2"": 2, ""Reject Class"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Reject Class
+DELIBERATION,TIE,clip_24_cropped_png,clip_24_cropped_png__group22,"{""Class 1"": 2, ""Class 2"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 2
+DELIBERATION,TIE,clip_24_cropped_png,clip_24_cropped_png__group23,"{""Class 1"": 2, ""Class 2"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,TIE,clip_24_cropped_png,clip_24_cropped_png__group27,"{""Class 1"": 2, ""Class 2"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_24_cropped_png,clip_24_cropped_png__group28,"{""Class 1"": 2, ""Reject Class"": 1, ""Extra Class"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_24_cropped_png,clip_24_cropped_png__group29,"{""Class 1"": 1, ""Extra Class"": 1, ""Class 2"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 2
+DELIBERATION,TIE,clip_17_cropped_png,clip_17_cropped_png__group3,"{""Extra Class"": 2, ""Class 1"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_17_cropped_png,clip_17_cropped_png__group10,"{""Extra Class"": 1, ""Class 1"": 2, ""Class 2"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,TIE,clip_17_cropped_png,clip_17_cropped_png__group11,"{""Extra Class"": 2, ""Class 1"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_17_cropped_png,clip_17_cropped_png__group14,"{""Class 1"": 1, ""Extra Class"": 2, ""Class 2"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,TIE,clip_17_cropped_png,clip_17_cropped_png__group16,"{""Class 1"": 2, ""Class 2"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,TIE,clip_17_cropped_png,clip_17_cropped_png__group17,"{""Class 2"": 2, ""Class 1"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,TIE,clip_17_cropped_png,clip_17_cropped_png__group19,"{""Class 2"": 2, ""Class 1"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,TIE,clip_17_cropped_png,clip_17_cropped_png__group21,"{""Reject Class"": 2, ""Class 2"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Reject Class
+DELIBERATION,TIE,clip_17_cropped_png,clip_17_cropped_png__group22,"{""Class 1"": 2, ""Class 2"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 2
+DELIBERATION,TIE,clip_17_cropped_png,clip_17_cropped_png__group25,"{""Class 2"": 2, ""Class 1"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 2
+DELIBERATION,TIE,clip_17_cropped_png,clip_17_cropped_png__group26,"{""Class 2"": 2, ""Class 1"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_17_cropped_png,clip_17_cropped_png__group27,"{""Class 2"": 1, ""Class 1"": 2, ""Reject Class"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Reject Class
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_17_cropped_png,clip_17_cropped_png__group28,"{""Class 1"": 2, ""Class 2"": 1, ""Extra Class"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,TIE,clip_104_cropped_png,clip_104_cropped_png__group17,"{""Class 1"": 2, ""Extra Class"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,TIE,clip_104_cropped_png,clip_104_cropped_png__group22,"{""Class 2"": 2, ""Class 1"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 2
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_104_cropped_png,clip_104_cropped_png__group23,"{""Reject Class"": 2, ""Class 1"": 1, ""Class 2"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_104_cropped_png,clip_104_cropped_png__group25,"{""Class 1"": 2, ""Class 2"": 1, ""Extra Class"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,TIE,clip_104_cropped_png,clip_104_cropped_png__group26,"{""Class 2"": 2, ""Class 1"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 2
+DELIBERATION,TIE,clip_10_cropped_png,clip_10_cropped_png__group11,"{""Class 2"": 2, ""Reject Class"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Reject Class
+DELIBERATION,TIE,clip_10_cropped_png,clip_10_cropped_png__group12,"{""Class 1"": 2, ""Class 2"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 2
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_10_cropped_png,clip_10_cropped_png__group16,"{""Reject Class"": 2, ""Class 1"": 1, ""Class 2"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Reject Class
+DELIBERATION,TIE,clip_10_cropped_png,clip_10_cropped_png__group17,"{""Class 1"": 2, ""Class 2"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 2
+DELIBERATION,TIE,clip_10_cropped_png,clip_10_cropped_png__group18,"{""Extra Class"": 2, ""Class 1"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,TIE,clip_10_cropped_png,clip_10_cropped_png__group20,"{""Class 1"": 2, ""Class 2"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 2
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_10_cropped_png,clip_10_cropped_png__group21,"{""Reject Class"": 1, ""Class 2"": 2, ""Class 1"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Reject Class
+DELIBERATION,TIE,clip_10_cropped_png,clip_10_cropped_png__group25,"{""Class 1"": 2, ""Extra Class"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Extra Class
+DELIBERATION,TIE,clip_18_cropped_png,clip_18_cropped_png__group4,"{""Extra Class"": 2, ""Class 1"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_18_cropped_png,clip_18_cropped_png__group5,"{""Class 2"": 1, ""Extra Class"": 2, ""Class 1"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_18_cropped_png,clip_18_cropped_png__group9,"{""Extra Class"": 1, ""Class 1"": 1, ""Class 2"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_18_cropped_png,clip_18_cropped_png__group11,"{""Class 1"": 1, ""Extra Class"": 2, ""Class 2"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Extra Class
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_18_cropped_png,clip_18_cropped_png__group13,"{""Class 2"": 1, ""Class 1"": 2, ""Extra Class"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_18_cropped_png,clip_18_cropped_png__group18,"{""Class 2"": 1, ""Extra Class"": 2, ""Class 1"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,TIE,clip_18_cropped_png,clip_18_cropped_png__group20,"{""Class 1"": 2, ""Class 2"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 2
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_18_cropped_png,clip_18_cropped_png__group21,"{""Extra Class"": 1, ""Class 2"": 2, ""Class 1"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 2
+DELIBERATION,TIE,clip_18_cropped_png,clip_18_cropped_png__group22,"{""Class 2"": 2, ""Class 1"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 2
+DELIBERATION,TIE,clip_18_cropped_png,clip_18_cropped_png__group29,"{""Reject Class"": 2, ""Class 2"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Reject Class
+DELIBERATION,TIE,clip_23_cropped_png,clip_23_cropped_png__group6,"{""Class 1"": 2, ""Extra Class"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,TIE,clip_23_cropped_png,clip_23_cropped_png__group10,"{""Class 2"": 2, ""Reject Class"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Reject Class
+DELIBERATION,SPLIT_MINORITY,clip_23_cropped_png,clip_23_cropped_png__group17,"{""Extra Class"": 1, ""Class 1"": 1, ""Reject Class"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Reject Class
+DELIBERATION,TIE,clip_23_cropped_png,clip_23_cropped_png__group20,"{""Class 2"": 2, ""Class 1"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 2
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_23_cropped_png,clip_23_cropped_png__group22,"{""Extra Class"": 2, ""Class 2"": 1, ""Class 1"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_23_cropped_png,clip_23_cropped_png__group25,"{""Reject Class"": 1, ""Class 1"": 1, ""Extra Class"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,TIE,clip_23_cropped_png,clip_23_cropped_png__group26,"{""Class 2"": 2, ""Class 1"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 2
+DELIBERATION,TIE,clip_23_cropped_png,clip_23_cropped_png__group28,"{""Class 2"": 2, ""Class 1"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 2
+DELIBERATION,TIE,clip_13_cropped_png,clip_13_cropped_png__group5,"{""Class 1"": 2, ""Extra Class"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_13_cropped_png,clip_13_cropped_png__group9,"{""Class 2"": 2, ""Reject Class"": 1, ""Class 1"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Reject Class
+DELIBERATION,TIE,clip_13_cropped_png,clip_13_cropped_png__group10,"{""Reject Class"": 2, ""Class 2"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Reject Class
+DELIBERATION,TIE,clip_13_cropped_png,clip_13_cropped_png__group12,"{""Reject Class"": 2, ""Class 2"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Reject Class
+DELIBERATION,TIE,clip_13_cropped_png,clip_13_cropped_png__group17,"{""Class 1"": 2, ""Extra Class"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,TIE,clip_13_cropped_png,clip_13_cropped_png__group19,"{""Class 2"": 2, ""Class 1"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 2
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_13_cropped_png,clip_13_cropped_png__group21,"{""Extra Class"": 1, ""Class 1"": 2, ""Class 2"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 2
+DELIBERATION,TIE,clip_13_cropped_png,clip_13_cropped_png__group25,"{""Class 2"": 2, ""Class 1"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 2
+DELIBERATION,TIE,clip_13_cropped_png,clip_13_cropped_png__group26,"{""Class 2"": 2, ""Class 1"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 2
+DELIBERATION,TIE,clip_13_cropped_png,clip_13_cropped_png__group28,"{""Class 1"": 2, ""Class 2"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 2
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_76_cropped_png,clip_76_cropped_png__group4,"{""Extra Class"": 2, ""Class 1"": 1, ""Class 2"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_76_cropped_png,clip_76_cropped_png__group6,"{""Class 2"": 1, ""Class 1"": 1, ""Reject Class"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Reject Class
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_76_cropped_png,clip_76_cropped_png__group8,"{""Reject Class"": 2, ""Class 1"": 1, ""Class 2"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Reject Class
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_76_cropped_png,clip_76_cropped_png__group11,"{""Class 2"": 2, ""Class 1"": 1, ""Reject Class"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 2
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_76_cropped_png,clip_76_cropped_png__group14,"{""Class 1"": 2, ""Extra Class"": 1, ""Class 2"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,TIE,clip_76_cropped_png,clip_76_cropped_png__group18,"{""Extra Class"": 2, ""Class 1"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,TIE,clip_76_cropped_png,clip_76_cropped_png__group19,"{""Extra Class"": 2, ""Class 1"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_76_cropped_png,clip_76_cropped_png__group20,"{""Class 1"": 2, ""Class 2"": 1, ""Extra Class"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,TIE,clip_76_cropped_png,clip_76_cropped_png__group21,"{""Class 2"": 2, ""Class 1"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,TIE,clip_76_cropped_png,clip_76_cropped_png__group23,"{""Extra Class"": 2, ""Class 1"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,TIE,clip_76_cropped_png,clip_76_cropped_png__group25,"{""Class 2"": 2, ""Class 1"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 2
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_76_cropped_png,clip_76_cropped_png__group27,"{""Class 1"": 2, ""Reject Class"": 1, ""Class 2"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,TIE,clip_67_cropped_png,clip_67_cropped_png__group19,"{""Class 1"": 2, ""Class 2"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 2
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_67_cropped_png,clip_67_cropped_png__group20,"{""Extra Class"": 2, ""Class 2"": 1, ""Class 1"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,TIE,clip_67_cropped_png,clip_67_cropped_png__group21,"{""Class 1"": 2, ""Extra Class"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,TIE,clip_67_cropped_png,clip_67_cropped_png__group24,"{""Class 1"": 2, ""Class 2"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 2
+DELIBERATION,TIE,clip_67_cropped_png,clip_67_cropped_png__group25,"{""Class 1"": 2, ""Extra Class"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Extra Class
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_67_cropped_png,clip_67_cropped_png__group27,"{""Class 1"": 1, ""Extra Class"": 2, ""Class 2"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_67_cropped_png,clip_67_cropped_png__group29,"{""Class 2"": 1, ""Extra Class"": 1, ""Class 1"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,TIE,clip_105_cropped_png,clip_105_cropped_png__group12,"{""Extra Class"": 2, ""Class 1"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,TIE,clip_105_cropped_png,clip_105_cropped_png__group14,"{""Class 2"": 2, ""Class 1"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 2
+DELIBERATION,TIE,clip_105_cropped_png,clip_105_cropped_png__group17,"{""Class 1"": 2, ""Extra Class"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,TIE,clip_105_cropped_png,clip_105_cropped_png__group22,"{""Class 1"": 2, ""Class 2"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 2
+DELIBERATION,TIE,clip_105_cropped_png,clip_105_cropped_png__group25,"{""Class 2"": 2, ""Class 1"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 2
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_105_cropped_png,clip_105_cropped_png__group27,"{""Class 2"": 2, ""Reject Class"": 1, ""Class 1"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Reject Class
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_105_cropped_png,clip_105_cropped_png__group29,"{""Reject Class"": 1, ""Class 2"": 1, ""Class 1"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 2
+DELIBERATION,TIE,clip_19_cropped_png,clip_19_cropped_png__group2,"{""Extra Class"": 2, ""Class 1"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,TIE,clip_19_cropped_png,clip_19_cropped_png__group5,"{""Class 2"": 2, ""Class 1"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 2
+DELIBERATION,TIE,clip_19_cropped_png,clip_19_cropped_png__group9,"{""Class 2"": 2, ""Class 1"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 2
+DELIBERATION,TIE,clip_19_cropped_png,clip_19_cropped_png__group10,"{""Class 1"": 2, ""Class 2"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 2
+DELIBERATION,TIE,clip_19_cropped_png,clip_19_cropped_png__group16,"{""Extra Class"": 2, ""Class 1"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_19_cropped_png,clip_19_cropped_png__group18,"{""Class 2"": 1, ""Class 1"": 2, ""Extra Class"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,TIE,clip_19_cropped_png,clip_19_cropped_png__group20,"{""Class 2"": 2, ""Class 1"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 2
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_19_cropped_png,clip_19_cropped_png__group21,"{""Extra Class"": 1, ""Class 1"": 2, ""Class 2"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_19_cropped_png,clip_19_cropped_png__group22,"{""Class 1"": 2, ""Extra Class"": 1, ""Class 2"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_19_cropped_png,clip_19_cropped_png__group23,"{""Class 1"": 2, ""Class 2"": 1, ""Extra Class"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,TIE,clip_19_cropped_png,clip_19_cropped_png__group26,"{""Class 1"": 2, ""Extra Class"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Extra Class
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_16_cropped_png,clip_16_cropped_png__group3,"{""Extra Class"": 1, ""Class 2"": 1, ""Class 1"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_16_cropped_png,clip_16_cropped_png__group4,"{""Class 1"": 2, ""Extra Class"": 1, ""Class 2"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,TIE,clip_16_cropped_png,clip_16_cropped_png__group9,"{""Class 1"": 2, ""Extra Class"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,TIE,clip_16_cropped_png,clip_16_cropped_png__group16,"{""Class 1"": 2, ""Reject Class"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 2
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_16_cropped_png,clip_16_cropped_png__group25,"{""Extra Class"": 2, ""Class 1"": 1, ""Class 2"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_16_cropped_png,clip_16_cropped_png__group26,"{""Extra Class"": 2, ""Class 2"": 1, ""Class 1"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_25_cropped_png,clip_25_cropped_png__group1,"{""Class 2"": 1, ""Reject Class"": 2, ""Class 1"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Reject Class
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_25_cropped_png,clip_25_cropped_png__group3,"{""Extra Class"": 2, ""Class 1"": 1, ""Class 2"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Extra Class
+DELIBERATION,TIE,clip_25_cropped_png,clip_25_cropped_png__group5,"{""Class 1"": 2, ""Extra Class"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_25_cropped_png,clip_25_cropped_png__group13,"{""Class 2"": 2, ""Extra Class"": 1, ""Class 1"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 2
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_25_cropped_png,clip_25_cropped_png__group16,"{""Class 1"": 2, ""Extra Class"": 1, ""Class 2"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Extra Class
+DELIBERATION,TIE,clip_25_cropped_png,clip_25_cropped_png__group18,"{""Extra Class"": 2, ""Class 1"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,TIE,clip_25_cropped_png,clip_25_cropped_png__group19,"{""Class 2"": 2, ""Class 1"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,TIE,clip_25_cropped_png,clip_25_cropped_png__group25,"{""Class 1"": 2, ""Class 2"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,TIE,clip_26_cropped_png,clip_26_cropped_png__group7,"{""Class 1"": 2, ""Extra Class"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_26_cropped_png,clip_26_cropped_png__group17,"{""Class 1"": 2, ""Class 2"": 1, ""Extra Class"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,TIE,clip_26_cropped_png,clip_26_cropped_png__group19,"{""Class 2"": 2, ""Class 1"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 2
+DELIBERATION,TIE,clip_26_cropped_png,clip_26_cropped_png__group21,"{""Class 1"": 2, ""Class 2"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,TIE,clip_26_cropped_png,clip_26_cropped_png__group23,"{""Class 1"": 2, ""Class 2"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 2
+DELIBERATION,TIE,clip_26_cropped_png,clip_26_cropped_png__group24,"{""Class 1"": 2, ""Extra Class"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_109_cropped_png,clip_109_cropped_png__group10,"{""Class 2"": 1, ""Class 1"": 1, ""Extra Class"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,TIE,clip_109_cropped_png,clip_109_cropped_png__group11,"{""Extra Class"": 2, ""Class 1"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_109_cropped_png,clip_109_cropped_png__group12,"{""Extra Class"": 2, ""Class 2"": 1, ""Class 1"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,TIE,clip_109_cropped_png,clip_109_cropped_png__group14,"{""Class 1"": 2, ""Extra Class"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_109_cropped_png,clip_109_cropped_png__group15,"{""Class 1"": 2, ""Class 2"": 1, ""Extra Class"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,TIE,clip_109_cropped_png,clip_109_cropped_png__group16,"{""Class 1"": 2, ""Class 2"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 2
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_109_cropped_png,clip_109_cropped_png__group19,"{""Class 1"": 2, ""Extra Class"": 1, ""Class 2"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_109_cropped_png,clip_109_cropped_png__group20,"{""Extra Class"": 1, ""Class 2"": 1, ""Class 1"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,TIE,clip_109_cropped_png,clip_109_cropped_png__group22,"{""Extra Class"": 2, ""Class 1"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_109_cropped_png,clip_109_cropped_png__group23,"{""Class 1"": 2, ""Extra Class"": 1, ""Class 2"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,TIE,clip_109_cropped_png,clip_109_cropped_png__group25,"{""Class 2"": 2, ""Class 1"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 2
+DELIBERATION,TIE,clip_109_cropped_png,clip_109_cropped_png__group27,"{""Class 1"": 2, ""Class 2"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 2
+DELIBERATION,TIE,clip_73_cropped_png,clip_73_cropped_png__group9,"{""Class 2"": 2, ""Class 1"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_73_cropped_png,clip_73_cropped_png__group14,"{""Class 2"": 1, ""Extra Class"": 1, ""Class 1"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_73_cropped_png,clip_73_cropped_png__group15,"{""Extra Class"": 2, ""Class 2"": 1, ""Class 1"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,TIE,clip_73_cropped_png,clip_73_cropped_png__group16,"{""Class 1"": 2, ""Extra Class"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_73_cropped_png,clip_73_cropped_png__group21,"{""Extra Class"": 2, ""Class 1"": 1, ""Class 2"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_73_cropped_png,clip_73_cropped_png__group22,"{""Extra Class"": 2, ""Class 1"": 1, ""Class 2"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,TIE,clip_73_cropped_png,clip_73_cropped_png__group24,"{""Class 2"": 2, ""Class 1"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,TIE,clip_73_cropped_png,clip_73_cropped_png__group25,"{""Class 1"": 2, ""Class 2"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,TIE,clip_73_cropped_png,clip_73_cropped_png__group26,"{""Class 1"": 2, ""Class 2"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 2
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_73_cropped_png,clip_73_cropped_png__group28,"{""Extra Class"": 2, ""Class 2"": 1, ""Class 1"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,TIE,clip_75_cropped_png,clip_75_cropped_png__group8,"{""Class 2"": 2, ""Class 1"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 2
+DELIBERATION,TIE,clip_75_cropped_png,clip_75_cropped_png__group19,"{""Class 1"": 2, ""Class 2"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,TIE,clip_75_cropped_png,clip_75_cropped_png__group20,"{""Class 1"": 2, ""Extra Class"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_75_cropped_png,clip_75_cropped_png__group21,"{""Reject Class"": 1, ""Extra Class"": 2, ""Class 1"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,TIE,clip_75_cropped_png,clip_75_cropped_png__group26,"{""Class 1"": 2, ""Class 2"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 2
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_75_cropped_png,clip_75_cropped_png__group27,"{""Class 1"": 2, ""Class 2"": 1, ""Reject Class"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 2
+DELIBERATION,TIE,clip_75_cropped_png,clip_75_cropped_png__group28,"{""Extra Class"": 2, ""Class 1"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,TIE,clip_75_cropped_png,clip_75_cropped_png__group29,"{""Extra Class"": 2, ""Class 1"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,TIE,clip_77_cropped_png,clip_77_cropped_png__group3,"{""Extra Class"": 2, ""Class 1"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,TIE,clip_77_cropped_png,clip_77_cropped_png__group11,"{""Class 1"": 2, ""Extra Class"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_77_cropped_png,clip_77_cropped_png__group24,"{""Class 1"": 2, ""Class 2"": 1, ""Reject Class"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 2
+DELIBERATION,TIE,clip_77_cropped_png,clip_77_cropped_png__group27,"{""Class 1"": 2, ""Extra Class"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_77_cropped_png,clip_77_cropped_png__group28,"{""Extra Class"": 2, ""Class 2"": 1, ""Class 1"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_107_cropped_png,clip_107_cropped_png__group6,"{""Class 1"": 1, ""Reject Class"": 1, ""Class 2"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 2
+DELIBERATION,TIE,clip_107_cropped_png,clip_107_cropped_png__group22,"{""Extra Class"": 2, ""Class 1"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_107_cropped_png,clip_107_cropped_png__group24,"{""Class 1"": 1, ""Extra Class"": 2, ""Class 2"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Extra Class
+DELIBERATION,TIE,clip_107_cropped_png,clip_107_cropped_png__group25,"{""Class 1"": 2, ""Class 2"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 2
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_107_cropped_png,clip_107_cropped_png__group27,"{""Class 1"": 2, ""Extra Class"": 1, ""Class 2"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,TIE,clip_107_cropped_png,clip_107_cropped_png__group28,"{""Class 2"": 2, ""Class 1"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_107_cropped_png,clip_107_cropped_png__group29,"{""Class 1"": 2, ""Reject Class"": 1, ""Extra Class"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,SPLIT_MINORITY,clip_63_cropped_png,clip_63_cropped_png__group6,"{""Extra Class"": 1, ""Reject Class"": 2, ""Class 1"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Reject Class
+DELIBERATION,TIE,clip_63_cropped_png,clip_63_cropped_png__group7,"{""Class 1"": 2, ""Extra Class"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,SPLIT_MINORITY,clip_63_cropped_png,clip_63_cropped_png__group11,"{""Class 2"": 1, ""Extra Class"": 2, ""Reject Class"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_63_cropped_png,clip_63_cropped_png__group16,"{""Class 2"": 1, ""Class 1"": 2, ""Reject Class"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,TIE,clip_63_cropped_png,clip_63_cropped_png__group21,"{""Class 1"": 2, ""Class 2"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 2
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_63_cropped_png,clip_63_cropped_png__group22,"{""Class 2"": 2, ""Class 1"": 1, ""Extra Class"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 2
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_63_cropped_png,clip_63_cropped_png__group23,"{""Class 1"": 2, ""Extra Class"": 1, ""Class 2"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_63_cropped_png,clip_63_cropped_png__group25,"{""Extra Class"": 2, ""Class 1"": 1, ""Class 2"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,TIE,clip_63_cropped_png,clip_63_cropped_png__group27,"{""Reject Class"": 2, ""Class 1"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Reject Class
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_63_cropped_png,clip_63_cropped_png__group28,"{""Class 1"": 2, ""Extra Class"": 1, ""Class 2"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 2
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_63_cropped_png,clip_63_cropped_png__group29,"{""Class 2"": 1, ""Class 1"": 2, ""Extra Class"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,TIE,clip_7_cropped_png,clip_7_cropped_png__group3,"{""Class 1"": 2, ""Extra Class"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,TIE,clip_7_cropped_png,clip_7_cropped_png__group15,"{""Class 1"": 2, ""Class 2"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 2
+DELIBERATION,TIE,clip_7_cropped_png,clip_7_cropped_png__group18,"{""Class 2"": 2, ""Class 1"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,TIE,clip_7_cropped_png,clip_7_cropped_png__group20,"{""Class 1"": 2, ""Extra Class"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_7_cropped_png,clip_7_cropped_png__group21,"{""Class 2"": 1, ""Extra Class"": 1, ""Class 1"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_7_cropped_png,clip_7_cropped_png__group23,"{""Extra Class"": 2, ""Class 2"": 1, ""Class 1"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,TIE,clip_7_cropped_png,clip_7_cropped_png__group24,"{""Class 1"": 2, ""Extra Class"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,TIE,clip_7_cropped_png,clip_7_cropped_png__group25,"{""Extra Class"": 2, ""Class 1"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,TIE,clip_55_cropped_png,clip_55_cropped_png__group6,"{""Class 1"": 2, ""Extra Class"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_55_cropped_png,clip_55_cropped_png__group7,"{""Extra Class"": 2, ""Class 2"": 1, ""Class 1"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Extra Class
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_55_cropped_png,clip_55_cropped_png__group12,"{""Class 1"": 1, ""Reject Class"": 2, ""Class 2"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Reject Class
+DELIBERATION,TIE,clip_55_cropped_png,clip_55_cropped_png__group13,"{""Class 1"": 2, ""Class 2"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 2
+DELIBERATION,TIE,clip_55_cropped_png,clip_55_cropped_png__group14,"{""Reject Class"": 2, ""Class 2"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Reject Class
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_55_cropped_png,clip_55_cropped_png__group17,"{""Class 1"": 2, ""Extra Class"": 1, ""Class 2"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_55_cropped_png,clip_55_cropped_png__group25,"{""Class 1"": 1, ""Class 2"": 1, ""Extra Class"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_55_cropped_png,clip_55_cropped_png__group27,"{""Extra Class"": 2, ""Class 1"": 1, ""Class 2"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,TIE,clip_55_cropped_png,clip_55_cropped_png__group28,"{""Class 1"": 2, ""Class 2"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 2
+DELIBERATION,TIE,clip_6_cropped_png,clip_6_cropped_png__group9,"{""Reject Class"": 2, ""Class 2"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 2
+DELIBERATION,TIE,clip_6_cropped_png,clip_6_cropped_png__group10,"{""Reject Class"": 2, ""Class 2"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Reject Class
+DELIBERATION,TIE,clip_6_cropped_png,clip_6_cropped_png__group13,"{""Class 1"": 2, ""Class 2"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,FULL_DISAGREEMENT,clip_6_cropped_png,clip_6_cropped_png__group17,"{""Class 1"": 1, ""Extra Class"": 1, ""Class 2"": 1, ""Reject Class"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 2
+DELIBERATION,TIE,clip_6_cropped_png,clip_6_cropped_png__group18,"{""Class 1"": 2, ""Class 2"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_6_cropped_png,clip_6_cropped_png__group24,"{""Class 1"": 2, ""Class 2"": 1, ""Extra Class"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,TIE,clip_6_cropped_png,clip_6_cropped_png__group28,"{""Class 1"": 2, ""Class 2"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_6_cropped_png,clip_6_cropped_png__group29,"{""Class 2"": 2, ""Reject Class"": 1, ""Class 1"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 2
+DELIBERATION,TIE,clip_57_cropped_png,clip_57_cropped_png__group5,"{""Class 1"": 2, ""Extra Class"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Extra Class
+DELIBERATION,TIE,clip_57_cropped_png,clip_57_cropped_png__group7,"{""Class 1"": 2, ""Class 2"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 2
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_57_cropped_png,clip_57_cropped_png__group9,"{""Class 2"": 2, ""Class 1"": 1, ""Reject Class"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Reject Class
+DELIBERATION,TIE,clip_57_cropped_png,clip_57_cropped_png__group10,"{""Class 2"": 2, ""Class 1"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_57_cropped_png,clip_57_cropped_png__group11,"{""Extra Class"": 1, ""Class 2"": 2, ""Class 1"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_57_cropped_png,clip_57_cropped_png__group24,"{""Class 2"": 2, ""Class 1"": 1, ""Reject Class"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Reject Class
+DELIBERATION,TIE,clip_57_cropped_png,clip_57_cropped_png__group25,"{""Class 1"": 2, ""Class 2"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 2
+DELIBERATION,TIE,clip_57_cropped_png,clip_57_cropped_png__group27,"{""Class 2"": 2, ""Class 1"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 2
+DELIBERATION,TIE,clip_57_cropped_png,clip_57_cropped_png__group29,"{""Class 1"": 2, ""Class 2"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,TIE,clip_81_cropped_png,clip_81_cropped_png__group4,"{""Extra Class"": 2, ""Class 1"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,TIE,clip_81_cropped_png,clip_81_cropped_png__group16,"{""Class 2"": 2, ""Class 1"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 2
+DELIBERATION,TIE,clip_81_cropped_png,clip_81_cropped_png__group22,"{""Extra Class"": 2, ""Class 1"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Extra Class
+DELIBERATION,TIE,clip_81_cropped_png,clip_81_cropped_png__group23,"{""Class 2"": 2, ""Class 1"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_81_cropped_png,clip_81_cropped_png__group25,"{""Class 1"": 1, ""Extra Class"": 2, ""Class 2"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,TIE,clip_70_cropped_png,clip_70_cropped_png__group24,"{""Class 2"": 2, ""Class 1"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 2
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_70_cropped_png,clip_70_cropped_png__group25,"{""Class 2"": 2, ""Extra Class"": 1, ""Class 1"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 2
+DELIBERATION,TIE,clip_70_cropped_png,clip_70_cropped_png__group26,"{""Extra Class"": 2, ""Class 1"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_70_cropped_png,clip_70_cropped_png__group27,"{""Extra Class"": 2, ""Class 2"": 1, ""Class 1"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,TIE,clip_78_cropped_png,clip_78_cropped_png__group9,"{""Class 1"": 2, ""Extra Class"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Extra Class
+DELIBERATION,TIE,clip_78_cropped_png,clip_78_cropped_png__group13,"{""Class 2"": 2, ""Reject Class"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Reject Class
+DELIBERATION,TIE,clip_78_cropped_png,clip_78_cropped_png__group14,"{""Class 1"": 2, ""Class 2"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 2
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_78_cropped_png,clip_78_cropped_png__group18,"{""Reject Class"": 1, ""Class 2"": 2, ""Class 1"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 2
+DELIBERATION,TIE,clip_78_cropped_png,clip_78_cropped_png__group21,"{""Class 2"": 2, ""Class 1"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_78_cropped_png,clip_78_cropped_png__group22,"{""Class 1"": 2, ""Extra Class"": 1, ""Class 2"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,TIE,clip_78_cropped_png,clip_78_cropped_png__group23,"{""Extra Class"": 2, ""Class 1"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,TIE,clip_78_cropped_png,clip_78_cropped_png__group24,"{""Class 1"": 2, ""Extra Class"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Extra Class
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_78_cropped_png,clip_78_cropped_png__group25,"{""Class 1"": 2, ""Reject Class"": 1, ""Class 2"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Reject Class
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_78_cropped_png,clip_78_cropped_png__group29,"{""Extra Class"": 2, ""Class 1"": 1, ""Class 2"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,TIE,clip_64_cropped_png,clip_64_cropped_png__group2,"{""Class 2"": 2, ""Reject Class"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Reject Class
+DELIBERATION,TIE,clip_64_cropped_png,clip_64_cropped_png__group4,"{""Extra Class"": 2, ""Class 1"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 2
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_64_cropped_png,clip_64_cropped_png__group10,"{""Reject Class"": 2, ""Class 2"": 1, ""Class 1"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Reject Class
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_64_cropped_png,clip_64_cropped_png__group11,"{""Class 1"": 1, ""Reject Class"": 1, ""Class 2"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Reject Class
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_64_cropped_png,clip_64_cropped_png__group12,"{""Class 2"": 2, ""Reject Class"": 1, ""Class 1"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Reject Class
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_64_cropped_png,clip_64_cropped_png__group13,"{""Class 1"": 1, ""Reject Class"": 1, ""Class 2"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 2
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_64_cropped_png,clip_64_cropped_png__group18,"{""Class 1"": 2, ""Class 2"": 1, ""Extra Class"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,TIE,clip_64_cropped_png,clip_64_cropped_png__group22,"{""Extra Class"": 2, ""Class 1"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_64_cropped_png,clip_64_cropped_png__group27,"{""Reject Class"": 2, ""Class 1"": 1, ""Class 2"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Reject Class
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_64_cropped_png,clip_64_cropped_png__group29,"{""Reject Class"": 1, ""Class 2"": 2, ""Class 1"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_60_cropped_png,clip_60_cropped_png__group8,"{""Reject Class"": 1, ""Class 1"": 1, ""Class 2"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 2
+DELIBERATION,TIE,clip_60_cropped_png,clip_60_cropped_png__group11,"{""Class 2"": 2, ""Reject Class"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Reject Class
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_60_cropped_png,clip_60_cropped_png__group12,"{""Class 2"": 1, ""Class 1"": 2, ""Reject Class"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_60_cropped_png,clip_60_cropped_png__group14,"{""Class 1"": 2, ""Extra Class"": 1, ""Class 2"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 2
+DELIBERATION,TIE,clip_60_cropped_png,clip_60_cropped_png__group15,"{""Class 2"": 2, ""Class 1"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 2
+DELIBERATION,TIE,clip_60_cropped_png,clip_60_cropped_png__group17,"{""Class 2"": 2, ""Class 1"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 2
+DELIBERATION,TIE,clip_60_cropped_png,clip_60_cropped_png__group20,"{""Extra Class"": 2, ""Class 1"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,TIE,clip_60_cropped_png,clip_60_cropped_png__group21,"{""Class 2"": 2, ""Class 1"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 2
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_60_cropped_png,clip_60_cropped_png__group22,"{""Reject Class"": 2, ""Class 1"": 1, ""Class 2"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Reject Class
+DELIBERATION,TIE,clip_60_cropped_png,clip_60_cropped_png__group23,"{""Class 1"": 2, ""Extra Class"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_60_cropped_png,clip_60_cropped_png__group24,"{""Class 1"": 2, ""Extra Class"": 1, ""Class 2"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,TIE,clip_71_cropped_png,clip_71_cropped_png__group10,"{""Reject Class"": 2, ""Class 2"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Reject Class
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_71_cropped_png,clip_71_cropped_png__group11,"{""Class 2"": 2, ""Class 1"": 1, ""Reject Class"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 2
+DELIBERATION,TIE,clip_71_cropped_png,clip_71_cropped_png__group15,"{""Class 1"": 2, ""Class 2"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,TIE,clip_71_cropped_png,clip_71_cropped_png__group22,"{""Extra Class"": 2, ""Class 1"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,TIE,clip_71_cropped_png,clip_71_cropped_png__group25,"{""Class 1"": 2, ""Extra Class"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,TIE,clip_71_cropped_png,clip_71_cropped_png__group28,"{""Class 2"": 2, ""Class 1"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 2
+DELIBERATION,TIE,clip_65_cropped_png,clip_65_cropped_png__group12,"{""Reject Class"": 2, ""Class 2"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 2
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_65_cropped_png,clip_65_cropped_png__group15,"{""Class 2"": 2, ""Class 1"": 1, ""Reject Class"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 2
+DELIBERATION,TIE,clip_65_cropped_png,clip_65_cropped_png__group18,"{""Class 1"": 2, ""Class 2"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,TIE,clip_65_cropped_png,clip_65_cropped_png__group19,"{""Class 1"": 2, ""Class 2"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_65_cropped_png,clip_65_cropped_png__group21,"{""Extra Class"": 2, ""Class 2"": 1, ""Class 1"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Extra Class
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_65_cropped_png,clip_65_cropped_png__group22,"{""Class 1"": 2, ""Extra Class"": 1, ""Class 2"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,TIE,clip_65_cropped_png,clip_65_cropped_png__group23,"{""Class 2"": 2, ""Class 1"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_65_cropped_png,clip_65_cropped_png__group24,"{""Class 1"": 2, ""Class 2"": 1, ""Extra Class"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,TIE,clip_65_cropped_png,clip_65_cropped_png__group26,"{""Class 1"": 2, ""Extra Class"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_65_cropped_png,clip_65_cropped_png__group28,"{""Reject Class"": 1, ""Class 2"": 1, ""Class 1"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 2
+DELIBERATION,TIE,clip_65_cropped_png,clip_65_cropped_png__group29,"{""Extra Class"": 2, ""Class 1"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_56_cropped_png,clip_56_cropped_png__group7,"{""Class 1"": 2, ""Class 2"": 1, ""Extra Class"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,TIE,clip_56_cropped_png,clip_56_cropped_png__group10,"{""Class 2"": 2, ""Reject Class"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Reject Class
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_56_cropped_png,clip_56_cropped_png__group12,"{""Extra Class"": 2, ""Class 1"": 1, ""Class 2"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_56_cropped_png,clip_56_cropped_png__group14,"{""Extra Class"": 1, ""Class 1"": 2, ""Class 2"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_56_cropped_png,clip_56_cropped_png__group15,"{""Class 2"": 1, ""Extra Class"": 1, ""Class 1"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_56_cropped_png,clip_56_cropped_png__group16,"{""Class 2"": 1, ""Class 1"": 2, ""Extra Class"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,TIE,clip_56_cropped_png,clip_56_cropped_png__group17,"{""Extra Class"": 2, ""Class 1"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,TIE,clip_56_cropped_png,clip_56_cropped_png__group19,"{""Extra Class"": 2, ""Class 1"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Extra Class
+DELIBERATION,TIE,clip_56_cropped_png,clip_56_cropped_png__group21,"{""Extra Class"": 2, ""Class 2"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,TIE,clip_56_cropped_png,clip_56_cropped_png__group25,"{""Class 1"": 2, ""Extra Class"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,TIE,clip_56_cropped_png,clip_56_cropped_png__group28,"{""Class 1"": 2, ""Class 2"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,TIE,clip_58_cropped_png,clip_58_cropped_png__group5,"{""Class 2"": 2, ""Reject Class"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Reject Class
+DELIBERATION,TIE,clip_58_cropped_png,clip_58_cropped_png__group8,"{""Reject Class"": 2, ""Class 2"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 2
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_58_cropped_png,clip_58_cropped_png__group21,"{""Class 1"": 2, ""Reject Class"": 1, ""Class 2"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 2
+DELIBERATION,TIE,clip_58_cropped_png,clip_58_cropped_png__group25,"{""Class 1"": 2, ""Class 2"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 2
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_58_cropped_png,clip_58_cropped_png__group27,"{""Class 2"": 2, ""Class 1"": 1, ""Extra Class"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,TIE,clip_62_cropped_png,clip_62_cropped_png__group9,"{""Class 2"": 2, ""Reject Class"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 2
+DELIBERATION,TIE,clip_62_cropped_png,clip_62_cropped_png__group12,"{""Class 1"": 2, ""Class 2"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 2
+DELIBERATION,TIE,clip_62_cropped_png,clip_62_cropped_png__group13,"{""Class 1"": 2, ""Class 2"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,TIE,clip_62_cropped_png,clip_62_cropped_png__group14,"{""Class 1"": 2, ""Class 2"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 2
+DELIBERATION,TIE,clip_62_cropped_png,clip_62_cropped_png__group17,"{""Class 1"": 2, ""Class 2"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_62_cropped_png,clip_62_cropped_png__group19,"{""Class 1"": 2, ""Class 2"": 1, ""Extra Class"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_62_cropped_png,clip_62_cropped_png__group21,"{""Class 2"": 1, ""Class 1"": 2, ""Reject Class"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_62_cropped_png,clip_62_cropped_png__group22,"{""Class 2"": 1, ""Class 1"": 1, ""Extra Class"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Extra Class
+DELIBERATION,TIE,clip_62_cropped_png,clip_62_cropped_png__group24,"{""Class 1"": 2, ""Extra Class"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_62_cropped_png,clip_62_cropped_png__group27,"{""Class 1"": 2, ""Extra Class"": 1, ""Class 2"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_59_cropped_png,clip_59_cropped_png__group10,"{""Reject Class"": 2, ""Class 2"": 1, ""Class 1"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 2
+DELIBERATION,TIE,clip_59_cropped_png,clip_59_cropped_png__group13,"{""Extra Class"": 2, ""Class 1"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,TIE,clip_59_cropped_png,clip_59_cropped_png__group14,"{""Extra Class"": 2, ""Class 1"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Extra Class
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_59_cropped_png,clip_59_cropped_png__group16,"{""Class 1"": 2, ""Class 2"": 1, ""Extra Class"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,TIE,clip_59_cropped_png,clip_59_cropped_png__group20,"{""Class 1"": 2, ""Extra Class"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,TIE,clip_59_cropped_png,clip_59_cropped_png__group22,"{""Class 2"": 2, ""Reject Class"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Reject Class
+DELIBERATION,TIE,clip_59_cropped_png,clip_59_cropped_png__group23,"{""Extra Class"": 2, ""Class 2"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,TIE,clip_59_cropped_png,clip_59_cropped_png__group24,"{""Class 2"": 2, ""Class 1"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_59_cropped_png,clip_59_cropped_png__group26,"{""Extra Class"": 1, ""Class 1"": 2, ""Class 2"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_59_cropped_png,clip_59_cropped_png__group28,"{""Reject Class"": 2, ""Class 1"": 1, ""Class 2"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Reject Class
+DELIBERATION,TIE,clip_5_cropped_png,clip_5_cropped_png__group5,"{""Extra Class"": 2, ""Class 1"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,TIE,clip_5_cropped_png,clip_5_cropped_png__group12,"{""Class 1"": 2, ""Reject Class"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 2
+DELIBERATION,TIE,clip_5_cropped_png,clip_5_cropped_png__group13,"{""Class 2"": 2, ""Reject Class"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 2
+DELIBERATION,TIE,clip_5_cropped_png,clip_5_cropped_png__group15,"{""Class 1"": 2, ""Class 2"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_5_cropped_png,clip_5_cropped_png__group20,"{""Class 1"": 1, ""Extra Class"": 2, ""Class 2"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_5_cropped_png,clip_5_cropped_png__group21,"{""Class 1"": 2, ""Class 2"": 1, ""Extra Class"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_5_cropped_png,clip_5_cropped_png__group26,"{""Class 2"": 2, ""Class 1"": 1, ""Reject Class"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 2
+DELIBERATION,TIE,clip_69_cropped_png,clip_69_cropped_png__group6,"{""Extra Class"": 2, ""Class 1"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Extra Class
+DELIBERATION,TIE,clip_69_cropped_png,clip_69_cropped_png__group8,"{""Extra Class"": 2, ""Class 1"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Extra Class
+DELIBERATION,TIE,clip_69_cropped_png,clip_69_cropped_png__group10,"{""Extra Class"": 2, ""Class 1"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_69_cropped_png,clip_69_cropped_png__group11,"{""Class 1"": 1, ""Extra Class"": 2, ""Reject Class"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,TIE,clip_69_cropped_png,clip_69_cropped_png__group26,"{""Class 1"": 2, ""Class 2"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 2
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_69_cropped_png,clip_69_cropped_png__group29,"{""Class 1"": 1, ""Class 2"": 2, ""Reject Class"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 2
+DELIBERATION,TIE,clip_74_cropped_png,clip_74_cropped_png__group17,"{""Extra Class"": 2, ""Class 1"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_74_cropped_png,clip_74_cropped_png__group19,"{""Class 2"": 1, ""Class 1"": 2, ""Extra Class"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,TIE,clip_74_cropped_png,clip_74_cropped_png__group20,"{""Class 1"": 2, ""Class 2"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 2
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_74_cropped_png,clip_74_cropped_png__group21,"{""Extra Class"": 2, ""Class 2"": 1, ""Class 1"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_74_cropped_png,clip_74_cropped_png__group22,"{""Class 2"": 1, ""Class 1"": 2, ""Extra Class"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,TIE,clip_74_cropped_png,clip_74_cropped_png__group26,"{""Class 2"": 2, ""Class 1"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,TIE,clip_74_cropped_png,clip_74_cropped_png__group27,"{""Class 1"": 2, ""Class 2"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_74_cropped_png,clip_74_cropped_png__group28,"{""Class 2"": 1, ""Class 1"": 2, ""Reject Class"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 2
+DELIBERATION,TIE,clip_72_cropped_png,clip_72_cropped_png__group2,"{""Extra Class"": 2, ""Class 1"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,TIE,clip_72_cropped_png,clip_72_cropped_png__group5,"{""Extra Class"": 2, ""Class 1"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,TIE,clip_72_cropped_png,clip_72_cropped_png__group9,"{""Extra Class"": 2, ""Class 1"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_72_cropped_png,clip_72_cropped_png__group11,"{""Class 1"": 1, ""Reject Class"": 1, ""Class 2"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 2
+DELIBERATION,TIE,clip_72_cropped_png,clip_72_cropped_png__group15,"{""Class 2"": 2, ""Reject Class"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Reject Class
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_72_cropped_png,clip_72_cropped_png__group16,"{""Extra Class"": 2, ""Class 1"": 1, ""Class 2"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_72_cropped_png,clip_72_cropped_png__group17,"{""Class 1"": 2, ""Extra Class"": 1, ""Class 2"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_72_cropped_png,clip_72_cropped_png__group18,"{""Class 2"": 1, ""Class 1"": 2, ""Extra Class"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,TIE,clip_72_cropped_png,clip_72_cropped_png__group20,"{""Class 1"": 2, ""Class 2"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 2
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_72_cropped_png,clip_72_cropped_png__group25,"{""Reject Class"": 1, ""Class 2"": 1, ""Class 1"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 2
+DELIBERATION,TIE,clip_72_cropped_png,clip_72_cropped_png__group27,"{""Class 2"": 2, ""Class 1"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,TIE,clip_72_cropped_png,clip_72_cropped_png__group29,"{""Class 2"": 2, ""Class 1"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 2
+DELIBERATION,TIE,clip_66_cropped_png,clip_66_cropped_png__group4,"{""Class 1"": 2, ""Extra Class"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,TIE,clip_66_cropped_png,clip_66_cropped_png__group10,"{""Class 1"": 2, ""Class 2"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,TIE,clip_66_cropped_png,clip_66_cropped_png__group13,"{""Class 1"": 2, ""Extra Class"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,FULL_DISAGREEMENT,clip_66_cropped_png,clip_66_cropped_png__group19,"{""Extra Class"": 1, ""Class 2"": 1, ""Reject Class"": 1, ""Class 1"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,TIE,clip_66_cropped_png,clip_66_cropped_png__group20,"{""Class 1"": 2, ""Class 2"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_66_cropped_png,clip_66_cropped_png__group21,"{""Class 1"": 1, ""Reject Class"": 2, ""Class 2"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 2
+DELIBERATION,TIE,clip_66_cropped_png,clip_66_cropped_png__group23,"{""Class 2"": 2, ""Class 1"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,TIE,clip_66_cropped_png,clip_66_cropped_png__group25,"{""Class 1"": 2, ""Class 2"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_66_cropped_png,clip_66_cropped_png__group28,"{""Class 1"": 1, ""Extra Class"": 1, ""Class 2"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,TIE,clip_66_cropped_png,clip_66_cropped_png__group29,"{""Class 1"": 2, ""Class 2"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 2
+DELIBERATION,TIE,clip_61_cropped_png,clip_61_cropped_png__group4,"{""Class 1"": 2, ""Extra Class"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,TIE,clip_61_cropped_png,clip_61_cropped_png__group9,"{""Reject Class"": 2, ""Class 2"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Reject Class
+DELIBERATION,TIE,clip_61_cropped_png,clip_61_cropped_png__group13,"{""Class 1"": 2, ""Class 2"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_61_cropped_png,clip_61_cropped_png__group19,"{""Class 1"": 1, ""Extra Class"": 2, ""Class 2"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_61_cropped_png,clip_61_cropped_png__group21,"{""Extra Class"": 2, ""Class 2"": 1, ""Class 1"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,TIE,clip_61_cropped_png,clip_61_cropped_png__group23,"{""Class 2"": 2, ""Class 1"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_61_cropped_png,clip_61_cropped_png__group27,"{""Class 2"": 1, ""Extra Class"": 1, ""Class 1"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_61_cropped_png,clip_61_cropped_png__group28,"{""Extra Class"": 1, ""Class 1"": 1, ""Class 2"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_37_cropped_png,clip_37_cropped_png__group9,"{""Class 1"": 2, ""Extra Class"": 1, ""Class 2"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_37_cropped_png,clip_37_cropped_png__group11,"{""Extra Class"": 1, ""Class 1"": 2, ""Class 2"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_37_cropped_png,clip_37_cropped_png__group16,"{""Class 1"": 2, ""Reject Class"": 1, ""Class 2"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Reject Class
+DELIBERATION,TIE,clip_37_cropped_png,clip_37_cropped_png__group17,"{""Class 1"": 2, ""Class 2"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,TIE,clip_37_cropped_png,clip_37_cropped_png__group24,"{""Class 2"": 2, ""Class 1"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_37_cropped_png,clip_37_cropped_png__group29,"{""Class 2"": 1, ""Extra Class"": 1, ""Class 1"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_79_cropped_png,clip_79_cropped_png__group8,"{""Extra Class"": 1, ""Class 1"": 2, ""Reject Class"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Reject Class
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_79_cropped_png,clip_79_cropped_png__group15,"{""Extra Class"": 2, ""Class 2"": 1, ""Class 1"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Extra Class
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_79_cropped_png,clip_79_cropped_png__group19,"{""Class 2"": 1, ""Extra Class"": 1, ""Class 1"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_79_cropped_png,clip_79_cropped_png__group20,"{""Class 1"": 2, ""Class 2"": 1, ""Extra Class"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,SPLIT_MINORITY,clip_79_cropped_png,clip_79_cropped_png__group22,"{""Reject Class"": 2, ""Class 1"": 1, ""Extra Class"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Reject Class
+DELIBERATION,TIE,clip_79_cropped_png,clip_79_cropped_png__group25,"{""Class 2"": 2, ""Class 1"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 2
+DELIBERATION,TIE,clip_79_cropped_png,clip_79_cropped_png__group27,"{""Class 2"": 2, ""Class 1"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,TIE,clip_50_cropped_png,clip_50_cropped_png__group9,"{""Class 2"": 2, ""Class 1"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Reject Class
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_50_cropped_png,clip_50_cropped_png__group14,"{""Extra Class"": 2, ""Class 2"": 1, ""Class 1"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_50_cropped_png,clip_50_cropped_png__group15,"{""Extra Class"": 2, ""Class 2"": 1, ""Class 1"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,TIE,clip_50_cropped_png,clip_50_cropped_png__group16,"{""Class 1"": 2, ""Class 2"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 2
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_50_cropped_png,clip_50_cropped_png__group17,"{""Class 2"": 1, ""Class 1"": 2, ""Extra Class"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,TIE,clip_50_cropped_png,clip_50_cropped_png__group19,"{""Class 2"": 2, ""Class 1"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,TIE,clip_50_cropped_png,clip_50_cropped_png__group21,"{""Reject Class"": 2, ""Class 2"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Reject Class
+DELIBERATION,TIE,clip_68_cropped_png,clip_68_cropped_png__group2,"{""Class 1"": 2, ""Extra Class"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,TIE,clip_68_cropped_png,clip_68_cropped_png__group5,"{""Class 2"": 2, ""Reject Class"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Reject Class
+DELIBERATION,TIE,clip_68_cropped_png,clip_68_cropped_png__group17,"{""Class 1"": 2, ""Extra Class"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,TIE,clip_68_cropped_png,clip_68_cropped_png__group18,"{""Extra Class"": 2, ""Class 1"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,TIE,clip_68_cropped_png,clip_68_cropped_png__group23,"{""Extra Class"": 2, ""Class 1"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,TIE,clip_68_cropped_png,clip_68_cropped_png__group25,"{""Class 2"": 2, ""Class 1"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 2
+DELIBERATION,TIE,clip_68_cropped_png,clip_68_cropped_png__group29,"{""Class 1"": 2, ""Class 2"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 2
+DELIBERATION,TIE,clip_41_cropped_png,clip_41_cropped_png__group4,"{""Class 1"": 2, ""Extra Class"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,TIE,clip_41_cropped_png,clip_41_cropped_png__group10,"{""Reject Class"": 2, ""Class 2"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Reject Class
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_41_cropped_png,clip_41_cropped_png__group16,"{""Extra Class"": 2, ""Class 2"": 1, ""Class 1"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_41_cropped_png,clip_41_cropped_png__group19,"{""Class 1"": 1, ""Class 2"": 2, ""Extra Class"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Extra Class
+DELIBERATION,TIE,clip_41_cropped_png,clip_41_cropped_png__group21,"{""Class 1"": 2, ""Extra Class"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_41_cropped_png,clip_41_cropped_png__group22,"{""Extra Class"": 2, ""Class 1"": 1, ""Class 2"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,TIE,clip_41_cropped_png,clip_41_cropped_png__group24,"{""Class 2"": 2, ""Extra Class"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 2
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_41_cropped_png,clip_41_cropped_png__group25,"{""Class 2"": 1, ""Class 1"": 2, ""Extra Class"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_41_cropped_png,clip_41_cropped_png__group26,"{""Extra Class"": 2, ""Class 2"": 1, ""Class 1"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,TIE,clip_80_cropped_png,clip_80_cropped_png__group11,"{""Class 2"": 2, ""Class 1"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 2
+DELIBERATION,TIE,clip_80_cropped_png,clip_80_cropped_png__group13,"{""Reject Class"": 2, ""Class 2"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 2
+DELIBERATION,TIE,clip_80_cropped_png,clip_80_cropped_png__group14,"{""Class 1"": 2, ""Class 2"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,TIE,clip_80_cropped_png,clip_80_cropped_png__group19,"{""Class 1"": 2, ""Class 2"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 2
+DELIBERATION,TIE,clip_80_cropped_png,clip_80_cropped_png__group20,"{""Class 2"": 2, ""Class 1"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 2
+DELIBERATION,TIE,clip_80_cropped_png,clip_80_cropped_png__group23,"{""Extra Class"": 2, ""Class 1"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_80_cropped_png,clip_80_cropped_png__group24,"{""Class 1"": 2, ""Class 2"": 1, ""Extra Class"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_80_cropped_png,clip_80_cropped_png__group28,"{""Class 1"": 2, ""Class 2"": 1, ""Extra Class"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,TIE,clip_80_cropped_png,clip_80_cropped_png__group29,"{""Class 2"": 2, ""Class 1"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,TIE,clip_49_cropped_png,clip_49_cropped_png__group10,"{""Reject Class"": 2, ""Class 2"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Reject Class
+DELIBERATION,TIE,clip_49_cropped_png,clip_49_cropped_png__group11,"{""Class 2"": 2, ""Reject Class"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 2
+DELIBERATION,TIE,clip_49_cropped_png,clip_49_cropped_png__group13,"{""Class 2"": 2, ""Reject Class"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 2
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_49_cropped_png,clip_49_cropped_png__group14,"{""Extra Class"": 2, ""Class 1"": 1, ""Class 2"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,TIE,clip_49_cropped_png,clip_49_cropped_png__group15,"{""Extra Class"": 2, ""Class 1"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Extra Class
+DELIBERATION,TIE,clip_49_cropped_png,clip_49_cropped_png__group16,"{""Extra Class"": 2, ""Class 1"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,TIE,clip_49_cropped_png,clip_49_cropped_png__group17,"{""Class 2"": 2, ""Class 1"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_49_cropped_png,clip_49_cropped_png__group19,"{""Extra Class"": 2, ""Class 2"": 1, ""Class 1"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,TIE,clip_49_cropped_png,clip_49_cropped_png__group23,"{""Class 1"": 2, ""Class 2"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 2
+DELIBERATION,TIE,clip_49_cropped_png,clip_49_cropped_png__group26,"{""Class 2"": 2, ""Class 1"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_49_cropped_png,clip_49_cropped_png__group27,"{""Extra Class"": 1, ""Class 2"": 2, ""Class 1"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_49_cropped_png,clip_49_cropped_png__group28,"{""Extra Class"": 1, ""Class 1"": 1, ""Class 2"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 2
+DELIBERATION,TIE,clip_53_cropped_png,clip_53_cropped_png__group2,"{""Class 1"": 2, ""Extra Class"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,TIE,clip_53_cropped_png,clip_53_cropped_png__group7,"{""Class 2"": 2, ""Reject Class"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Reject Class
+DELIBERATION,TIE,clip_53_cropped_png,clip_53_cropped_png__group8,"{""Reject Class"": 2, ""Class 2"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Reject Class
+DELIBERATION,TIE,clip_53_cropped_png,clip_53_cropped_png__group12,"{""Class 2"": 2, ""Class 1"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 2
+DELIBERATION,SPLIT_MINORITY,clip_53_cropped_png,clip_53_cropped_png__group15,"{""Extra Class"": 2, ""Reject Class"": 1, ""Class 2"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Reject Class
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_53_cropped_png,clip_53_cropped_png__group18,"{""Extra Class"": 1, ""Class 1"": 1, ""Class 2"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_53_cropped_png,clip_53_cropped_png__group19,"{""Extra Class"": 2, ""Class 1"": 1, ""Class 2"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,TIE,clip_53_cropped_png,clip_53_cropped_png__group22,"{""Class 1"": 2, ""Extra Class"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,TIE,clip_53_cropped_png,clip_53_cropped_png__group26,"{""Class 2"": 2, ""Class 1"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_53_cropped_png,clip_53_cropped_png__group29,"{""Class 1"": 1, ""Extra Class"": 1, ""Class 2"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 2
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_39_cropped_png,clip_39_cropped_png__group10,"{""Class 1"": 1, ""Extra Class"": 1, ""Class 2"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_39_cropped_png,clip_39_cropped_png__group11,"{""Extra Class"": 2, ""Class 2"": 1, ""Class 1"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_39_cropped_png,clip_39_cropped_png__group16,"{""Class 2"": 2, ""Extra Class"": 1, ""Class 1"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 2
+DELIBERATION,TIE,clip_39_cropped_png,clip_39_cropped_png__group17,"{""Extra Class"": 2, ""Class 2"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 2
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_39_cropped_png,clip_39_cropped_png__group19,"{""Class 2"": 2, ""Extra Class"": 1, ""Class 1"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,TIE,clip_39_cropped_png,clip_39_cropped_png__group20,"{""Class 1"": 2, ""Class 2"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 2
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_39_cropped_png,clip_39_cropped_png__group21,"{""Class 1"": 2, ""Class 2"": 1, ""Extra Class"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,TIE,clip_39_cropped_png,clip_39_cropped_png__group22,"{""Class 1"": 2, ""Class 2"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,TIE,clip_39_cropped_png,clip_39_cropped_png__group25,"{""Class 2"": 2, ""Class 1"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 2
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_39_cropped_png,clip_39_cropped_png__group26,"{""Extra Class"": 2, ""Class 2"": 1, ""Class 1"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_39_cropped_png,clip_39_cropped_png__group27,"{""Extra Class"": 2, ""Class 1"": 1, ""Class 2"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 2
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_39_cropped_png,clip_39_cropped_png__group28,"{""Extra Class"": 1, ""Class 1"": 2, ""Class 2"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,TIE,clip_42_cropped_png,clip_42_cropped_png__group13,"{""Class 1"": 2, ""Class 2"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_42_cropped_png,clip_42_cropped_png__group15,"{""Class 1"": 1, ""Class 2"": 2, ""Reject Class"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_42_cropped_png,clip_42_cropped_png__group17,"{""Class 2"": 1, ""Class 1"": 2, ""Reject Class"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_42_cropped_png,clip_42_cropped_png__group18,"{""Extra Class"": 2, ""Class 1"": 1, ""Class 2"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,TIE,clip_42_cropped_png,clip_42_cropped_png__group19,"{""Class 1"": 2, ""Class 2"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,TIE,clip_42_cropped_png,clip_42_cropped_png__group20,"{""Class 2"": 2, ""Class 1"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,TIE,clip_42_cropped_png,clip_42_cropped_png__group21,"{""Extra Class"": 2, ""Class 1"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_42_cropped_png,clip_42_cropped_png__group22,"{""Class 2"": 1, ""Extra Class"": 1, ""Class 1"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,TIE,clip_42_cropped_png,clip_42_cropped_png__group23,"{""Class 1"": 2, ""Extra Class"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Extra Class
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_42_cropped_png,clip_42_cropped_png__group25,"{""Class 1"": 2, ""Extra Class"": 1, ""Reject Class"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Reject Class
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_35_cropped_png,clip_35_cropped_png__group3,"{""Class 2"": 1, ""Extra Class"": 2, ""Class 1"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_35_cropped_png,clip_35_cropped_png__group4,"{""Class 2"": 1, ""Class 1"": 1, ""Extra Class"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,TIE,clip_35_cropped_png,clip_35_cropped_png__group12,"{""Reject Class"": 2, ""Class 2"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Reject Class
+DELIBERATION,TIE,clip_35_cropped_png,clip_35_cropped_png__group14,"{""Class 2"": 2, ""Class 1"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,TIE,clip_35_cropped_png,clip_35_cropped_png__group16,"{""Class 2"": 2, ""Class 1"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,TIE,clip_35_cropped_png,clip_35_cropped_png__group17,"{""Class 1"": 2, ""Class 2"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 2
+DELIBERATION,TIE,clip_35_cropped_png,clip_35_cropped_png__group24,"{""Class 1"": 2, ""Extra Class"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_35_cropped_png,clip_35_cropped_png__group29,"{""Extra Class"": 1, ""Class 1"": 2, ""Class 2"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,TIE,clip_2_cropped_png,clip_2_cropped_png__group7,"{""Class 1"": 2, ""Class 2"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_2_cropped_png,clip_2_cropped_png__group8,"{""Class 2"": 2, ""Reject Class"": 1, ""Class 1"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Reject Class
+DELIBERATION,TIE,clip_2_cropped_png,clip_2_cropped_png__group11,"{""Class 1"": 2, ""Class 2"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,TIE,clip_2_cropped_png,clip_2_cropped_png__group18,"{""Class 1"": 2, ""Extra Class"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_2_cropped_png,clip_2_cropped_png__group22,"{""Extra Class"": 1, ""Class 1"": 2, ""Class 2"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 2
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_2_cropped_png,clip_2_cropped_png__group24,"{""Class 1"": 2, ""Class 2"": 1, ""Extra Class"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,TIE,clip_2_cropped_png,clip_2_cropped_png__group27,"{""Reject Class"": 2, ""Class 2"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Reject Class
+DELIBERATION,TIE,clip_2_cropped_png,clip_2_cropped_png__group28,"{""Reject Class"": 2, ""Class 2"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Reject Class
+DELIBERATION,TIE,clip_30_cropped_png,clip_30_cropped_png__group7,"{""Class 1"": 2, ""Extra Class"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Extra Class
+DELIBERATION,TIE,clip_30_cropped_png,clip_30_cropped_png__group8,"{""Extra Class"": 2, ""Class 1"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Extra Class
+DELIBERATION,TIE,clip_30_cropped_png,clip_30_cropped_png__group16,"{""Class 2"": 2, ""Class 1"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,TIE,clip_30_cropped_png,clip_30_cropped_png__group19,"{""Reject Class"": 2, ""Class 2"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Reject Class
+DELIBERATION,TIE,clip_30_cropped_png,clip_30_cropped_png__group21,"{""Reject Class"": 2, ""Class 2"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 2
+DELIBERATION,TIE,clip_30_cropped_png,clip_30_cropped_png__group23,"{""Class 1"": 2, ""Class 2"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_30_cropped_png,clip_30_cropped_png__group28,"{""Class 2"": 1, ""Class 1"": 2, ""Extra Class"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,TIE,clip_44_cropped_png,clip_44_cropped_png__group12,"{""Reject Class"": 2, ""Class 2"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Reject Class
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_44_cropped_png,clip_44_cropped_png__group13,"{""Reject Class"": 1, ""Class 1"": 1, ""Class 2"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Reject Class
+DELIBERATION,SPLIT_MINORITY,clip_44_cropped_png,clip_44_cropped_png__group14,"{""Reject Class"": 2, ""Class 1"": 1, ""Extra Class"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_44_cropped_png,clip_44_cropped_png__group15,"{""Class 2"": 2, ""Reject Class"": 1, ""Class 1"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 2
+DELIBERATION,TIE,clip_44_cropped_png,clip_44_cropped_png__group16,"{""Class 1"": 2, ""Extra Class"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_44_cropped_png,clip_44_cropped_png__group18,"{""Class 2"": 1, ""Class 1"": 2, ""Extra Class"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_44_cropped_png,clip_44_cropped_png__group20,"{""Class 2"": 1, ""Extra Class"": 2, ""Class 1"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Extra Class
+DELIBERATION,TIE,clip_44_cropped_png,clip_44_cropped_png__group21,"{""Extra Class"": 2, ""Class 1"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Extra Class
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_44_cropped_png,clip_44_cropped_png__group23,"{""Class 1"": 2, ""Class 2"": 1, ""Extra Class"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,TIE,clip_44_cropped_png,clip_44_cropped_png__group26,"{""Class 1"": 2, ""Class 2"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,TIE,clip_44_cropped_png,clip_44_cropped_png__group27,"{""Class 1"": 2, ""Class 2"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 2
+DELIBERATION,TIE,clip_44_cropped_png,clip_44_cropped_png__group28,"{""Class 1"": 2, ""Class 2"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_33_cropped_png,clip_33_cropped_png__group4,"{""Reject Class"": 1, ""Extra Class"": 2, ""Class 1"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_33_cropped_png,clip_33_cropped_png__group14,"{""Extra Class"": 1, ""Class 1"": 2, ""Class 2"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,TIE,clip_33_cropped_png,clip_33_cropped_png__group15,"{""Class 2"": 2, ""Reject Class"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 2
+DELIBERATION,TIE,clip_33_cropped_png,clip_33_cropped_png__group18,"{""Class 2"": 2, ""Class 1"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 2
+DELIBERATION,TIE,clip_33_cropped_png,clip_33_cropped_png__group19,"{""Extra Class"": 2, ""Class 1"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,TIE,clip_33_cropped_png,clip_33_cropped_png__group22,"{""Class 1"": 2, ""Class 2"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 2
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_33_cropped_png,clip_33_cropped_png__group23,"{""Extra Class"": 2, ""Class 2"": 1, ""Class 1"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,TIE,clip_33_cropped_png,clip_33_cropped_png__group28,"{""Class 1"": 2, ""Class 2"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_32_cropped_png,clip_32_cropped_png__group6,"{""Extra Class"": 2, ""Class 1"": 1, ""Class 2"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,TIE,clip_32_cropped_png,clip_32_cropped_png__group16,"{""Class 2"": 2, ""Reject Class"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Reject Class
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_32_cropped_png,clip_32_cropped_png__group18,"{""Class 1"": 1, ""Class 2"": 2, ""Reject Class"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Reject Class
+DELIBERATION,TIE,clip_32_cropped_png,clip_32_cropped_png__group22,"{""Class 1"": 2, ""Extra Class"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Extra Class
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_32_cropped_png,clip_32_cropped_png__group24,"{""Class 2"": 1, ""Class 1"": 1, ""Extra Class"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,TIE,clip_32_cropped_png,clip_32_cropped_png__group26,"{""Class 1"": 2, ""Class 2"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 2
+DELIBERATION,TIE,clip_32_cropped_png,clip_32_cropped_png__group29,"{""Class 1"": 2, ""Class 2"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,TIE,clip_38_cropped_png,clip_38_cropped_png__group7,"{""Class 1"": 2, ""Class 2"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 2
+DELIBERATION,TIE,clip_38_cropped_png,clip_38_cropped_png__group11,"{""Class 2"": 2, ""Class 1"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 2
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_38_cropped_png,clip_38_cropped_png__group16,"{""Class 2"": 2, ""Class 1"": 1, ""Extra Class"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,TIE,clip_38_cropped_png,clip_38_cropped_png__group20,"{""Class 1"": 2, ""Class 2"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,TIE,clip_38_cropped_png,clip_38_cropped_png__group28,"{""Extra Class"": 2, ""Class 1"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_34_cropped_png,clip_34_cropped_png__group4,"{""Extra Class"": 2, ""Class 2"": 1, ""Class 1"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,TIE,clip_34_cropped_png,clip_34_cropped_png__group10,"{""Class 2"": 2, ""Class 1"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_34_cropped_png,clip_34_cropped_png__group15,"{""Class 2"": 1, ""Extra Class"": 2, ""Class 1"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 2
+DELIBERATION,TIE,clip_34_cropped_png,clip_34_cropped_png__group16,"{""Class 1"": 2, ""Extra Class"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_34_cropped_png,clip_34_cropped_png__group17,"{""Class 1"": 1, ""Class 2"": 1, ""Extra Class"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Extra Class
+DELIBERATION,TIE,clip_34_cropped_png,clip_34_cropped_png__group19,"{""Class 1"": 2, ""Extra Class"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Extra Class
+DELIBERATION,TIE,clip_34_cropped_png,clip_34_cropped_png__group21,"{""Extra Class"": 2, ""Class 1"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,TIE,clip_34_cropped_png,clip_34_cropped_png__group23,"{""Class 1"": 2, ""Class 2"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_34_cropped_png,clip_34_cropped_png__group25,"{""Class 1"": 2, ""Class 2"": 1, ""Extra Class"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,TIE,clip_34_cropped_png,clip_34_cropped_png__group27,"{""Reject Class"": 2, ""Class 2"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Reject Class
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_34_cropped_png,clip_34_cropped_png__group29,"{""Class 2"": 1, ""Class 1"": 2, ""Extra Class"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,TIE,clip_43_cropped_png,clip_43_cropped_png__group11,"{""Reject Class"": 2, ""Class 2"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Reject Class
+DELIBERATION,TIE,clip_43_cropped_png,clip_43_cropped_png__group12,"{""Class 2"": 2, ""Reject Class"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 2
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_43_cropped_png,clip_43_cropped_png__group13,"{""Reject Class"": 2, ""Class 2"": 1, ""Class 1"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Reject Class
+DELIBERATION,TIE,clip_43_cropped_png,clip_43_cropped_png__group15,"{""Extra Class"": 2, ""Class 1"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_43_cropped_png,clip_43_cropped_png__group17,"{""Class 1"": 2, ""Class 2"": 1, ""Reject Class"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Reject Class
+DELIBERATION,TIE,clip_43_cropped_png,clip_43_cropped_png__group18,"{""Class 1"": 2, ""Class 2"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_43_cropped_png,clip_43_cropped_png__group20,"{""Extra Class"": 1, ""Class 1"": 2, ""Class 2"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_43_cropped_png,clip_43_cropped_png__group21,"{""Extra Class"": 1, ""Class 1"": 2, ""Class 2"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_43_cropped_png,clip_43_cropped_png__group24,"{""Class 2"": 2, ""Extra Class"": 1, ""Class 1"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_51_cropped_png,clip_51_cropped_png__group8,"{""Extra Class"": 2, ""Class 1"": 1, ""Class 2"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Extra Class
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_51_cropped_png,clip_51_cropped_png__group12,"{""Extra Class"": 2, ""Class 2"": 1, ""Class 1"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Extra Class
+DELIBERATION,TIE,clip_51_cropped_png,clip_51_cropped_png__group14,"{""Extra Class"": 2, ""Class 1"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Extra Class
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_51_cropped_png,clip_51_cropped_png__group15,"{""Reject Class"": 2, ""Class 2"": 1, ""Class 1"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Reject Class
+DELIBERATION,TIE,clip_51_cropped_png,clip_51_cropped_png__group18,"{""Class 1"": 2, ""Class 2"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 2
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_51_cropped_png,clip_51_cropped_png__group19,"{""Class 2"": 2, ""Class 1"": 1, ""Extra Class"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,TIE,clip_51_cropped_png,clip_51_cropped_png__group21,"{""Class 2"": 2, ""Class 1"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_51_cropped_png,clip_51_cropped_png__group25,"{""Extra Class"": 1, ""Class 2"": 1, ""Class 1"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,TIE,clip_51_cropped_png,clip_51_cropped_png__group27,"{""Class 2"": 2, ""Class 1"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 2
+DELIBERATION,TIE,clip_27_cropped_png,clip_27_cropped_png__group6,"{""Extra Class"": 2, ""Class 1"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Extra Class
+DELIBERATION,TIE,clip_27_cropped_png,clip_27_cropped_png__group7,"{""Class 1"": 2, ""Extra Class"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Extra Class
+DELIBERATION,TIE,clip_27_cropped_png,clip_27_cropped_png__group11,"{""Extra Class"": 2, ""Class 1"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_27_cropped_png,clip_27_cropped_png__group12,"{""Class 2"": 1, ""Extra Class"": 2, ""Class 1"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,TIE,clip_27_cropped_png,clip_27_cropped_png__group13,"{""Class 1"": 2, ""Extra Class"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,TIE,clip_27_cropped_png,clip_27_cropped_png__group18,"{""Class 2"": 2, ""Class 1"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,TIE,clip_27_cropped_png,clip_27_cropped_png__group23,"{""Class 2"": 2, ""Class 1"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,TIE,clip_27_cropped_png,clip_27_cropped_png__group24,"{""Class 1"": 2, ""Class 2"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,TIE,clip_27_cropped_png,clip_27_cropped_png__group27,"{""Class 1"": 2, ""Class 2"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 2
+DELIBERATION,TIE,clip_27_cropped_png,clip_27_cropped_png__group28,"{""Reject Class"": 2, ""Class 2"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Reject Class
+DELIBERATION,TIE,clip_27_cropped_png,clip_27_cropped_png__group29,"{""Class 1"": 2, ""Class 2"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,TIE,clip_3_cropped_png,clip_3_cropped_png__group11,"{""Class 2"": 2, ""Reject Class"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Reject Class
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_3_cropped_png,clip_3_cropped_png__group12,"{""Class 1"": 1, ""Reject Class"": 1, ""Class 2"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 2
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_3_cropped_png,clip_3_cropped_png__group18,"{""Class 1"": 1, ""Extra Class"": 2, ""Class 2"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Extra Class
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_3_cropped_png,clip_3_cropped_png__group22,"{""Reject Class"": 1, ""Class 2"": 1, ""Class 1"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_3_cropped_png,clip_3_cropped_png__group23,"{""Class 1"": 2, ""Extra Class"": 1, ""Class 2"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,TIE,clip_3_cropped_png,clip_3_cropped_png__group24,"{""Class 1"": 2, ""Extra Class"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,TIE,clip_3_cropped_png,clip_3_cropped_png__group25,"{""Class 2"": 2, ""Class 1"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 2
+DELIBERATION,TIE,clip_3_cropped_png,clip_3_cropped_png__group27,"{""Class 1"": 2, ""Extra Class"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,TIE,clip_3_cropped_png,clip_3_cropped_png__group28,"{""Class 1"": 2, ""Class 2"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 2
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_3_cropped_png,clip_3_cropped_png__group29,"{""Class 2"": 2, ""Extra Class"": 1, ""Class 1"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 2
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_45_cropped_png,clip_45_cropped_png__group6,"{""Class 2"": 1, ""Class 1"": 2, ""Extra Class"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,TIE,clip_45_cropped_png,clip_45_cropped_png__group11,"{""Extra Class"": 2, ""Class 1"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,TIE,clip_45_cropped_png,clip_45_cropped_png__group16,"{""Class 2"": 2, ""Class 1"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,TIE,clip_45_cropped_png,clip_45_cropped_png__group20,"{""Class 1"": 2, ""Class 2"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 2
+DELIBERATION,TIE,clip_46_cropped_png,clip_46_cropped_png__group10,"{""Reject Class"": 2, ""Class 2"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Reject Class
+DELIBERATION,TIE,clip_46_cropped_png,clip_46_cropped_png__group11,"{""Reject Class"": 2, ""Class 2"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Reject Class
+DELIBERATION,TIE,clip_46_cropped_png,clip_46_cropped_png__group12,"{""Reject Class"": 2, ""Class 2"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Reject Class
+DELIBERATION,TIE,clip_46_cropped_png,clip_46_cropped_png__group18,"{""Class 1"": 2, ""Class 2"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,TIE,clip_46_cropped_png,clip_46_cropped_png__group21,"{""Class 1"": 2, ""Extra Class"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Extra Class
+DELIBERATION,TIE,clip_46_cropped_png,clip_46_cropped_png__group24,"{""Class 2"": 2, ""Class 1"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 2
+DELIBERATION,TIE,clip_46_cropped_png,clip_46_cropped_png__group25,"{""Class 2"": 2, ""Class 1"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_46_cropped_png,clip_46_cropped_png__group26,"{""Class 2"": 1, ""Class 1"": 1, ""Extra Class"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Extra Class
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_46_cropped_png,clip_46_cropped_png__group27,"{""Extra Class"": 1, ""Class 1"": 2, ""Class 2"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Reject Class
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_31_cropped_png,clip_31_cropped_png__group13,"{""Reject Class"": 1, ""Class 2"": 2, ""Class 1"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 2
+DELIBERATION,TIE,clip_31_cropped_png,clip_31_cropped_png__group14,"{""Reject Class"": 2, ""Class 2"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Reject Class
+DELIBERATION,TIE,clip_31_cropped_png,clip_31_cropped_png__group16,"{""Reject Class"": 2, ""Class 2"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Reject Class
+DELIBERATION,TIE,clip_31_cropped_png,clip_31_cropped_png__group17,"{""Class 1"": 2, ""Class 2"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 2
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_31_cropped_png,clip_31_cropped_png__group21,"{""Class 2"": 2, ""Class 1"": 1, ""Reject Class"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 2
+DELIBERATION,TIE,clip_31_cropped_png,clip_31_cropped_png__group22,"{""Class 1"": 2, ""Extra Class"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,TIE,clip_31_cropped_png,clip_31_cropped_png__group23,"{""Class 1"": 2, ""Class 2"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 2
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_31_cropped_png,clip_31_cropped_png__group26,"{""Class 1"": 1, ""Reject Class"": 1, ""Class 2"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 2
+DELIBERATION,TIE,clip_52_cropped_png,clip_52_cropped_png__group5,"{""Class 1"": 2, ""Extra Class"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_52_cropped_png,clip_52_cropped_png__group8,"{""Class 1"": 1, ""Class 2"": 1, ""Reject Class"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Reject Class
+DELIBERATION,TIE,clip_52_cropped_png,clip_52_cropped_png__group13,"{""Class 2"": 2, ""Reject Class"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Reject Class
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_52_cropped_png,clip_52_cropped_png__group22,"{""Reject Class"": 2, ""Class 2"": 1, ""Class 1"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Reject Class
+DELIBERATION,TIE,clip_52_cropped_png,clip_52_cropped_png__group24,"{""Reject Class"": 2, ""Class 2"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Reject Class
+DELIBERATION,TIE,clip_52_cropped_png,clip_52_cropped_png__group26,"{""Class 1"": 2, ""Class 2"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,TIE,clip_52_cropped_png,clip_52_cropped_png__group27,"{""Class 1"": 2, ""Class 2"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 2
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_52_cropped_png,clip_52_cropped_png__group28,"{""Class 1"": 2, ""Extra Class"": 1, ""Class 2"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,SPLIT_MINORITY,clip_36_cropped_png,clip_36_cropped_png__group0,"{""Extra Class"": 2, ""Class 2"": 1, ""Reject Class"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Extra Class
+DELIBERATION,TIE,clip_36_cropped_png,clip_36_cropped_png__group2,"{""Extra Class"": 2, ""Class 1"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Extra Class
+DELIBERATION,SPLIT_MINORITY,clip_36_cropped_png,clip_36_cropped_png__group5,"{""Class 1"": 1, ""Reject Class"": 2, ""Extra Class"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Reject Class
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_36_cropped_png,clip_36_cropped_png__group7,"{""Class 1"": 1, ""Reject Class"": 1, ""Extra Class"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Extra Class
+DELIBERATION,TIE,clip_36_cropped_png,clip_36_cropped_png__group18,"{""Class 1"": 2, ""Class 2"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_36_cropped_png,clip_36_cropped_png__group20,"{""Class 2"": 1, ""Class 1"": 2, ""Extra Class"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,TIE,clip_36_cropped_png,clip_36_cropped_png__group21,"{""Class 2"": 2, ""Class 1"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_36_cropped_png,clip_36_cropped_png__group23,"{""Extra Class"": 2, ""Class 2"": 1, ""Class 1"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_36_cropped_png,clip_36_cropped_png__group24,"{""Class 1"": 2, ""Class 2"": 1, ""Extra Class"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,TIE,clip_36_cropped_png,clip_36_cropped_png__group29,"{""Class 2"": 2, ""Extra Class"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 2
+DELIBERATION,TIE,clip_36_cropped_png,clip_36_cropped_png__group30,"{""Class 2"": 2, ""Class 1"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,TIE,clip_36_cropped_png,clip_36_cropped_png__group31,"{""Class 2"": 2, ""Class 1"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 2
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_4_cropped_png,clip_4_cropped_png__group5,"{""Class 2"": 1, ""Class 1"": 2, ""Extra Class"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 2
+DELIBERATION,TIE,clip_4_cropped_png,clip_4_cropped_png__group11,"{""Class 2"": 2, ""Reject Class"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Reject Class
+DELIBERATION,TIE,clip_4_cropped_png,clip_4_cropped_png__group12,"{""Reject Class"": 2, ""Class 2"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Reject Class
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_4_cropped_png,clip_4_cropped_png__group15,"{""Extra Class"": 2, ""Reject Class"": 1, ""Class 1"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Reject Class
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_4_cropped_png,clip_4_cropped_png__group17,"{""Extra Class"": 2, ""Class 1"": 1, ""Class 2"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Extra Class
+DELIBERATION,TIE,clip_4_cropped_png,clip_4_cropped_png__group20,"{""Extra Class"": 2, ""Class 1"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,TIE,clip_4_cropped_png,clip_4_cropped_png__group21,"{""Class 1"": 2, ""Extra Class"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,TIE,clip_4_cropped_png,clip_4_cropped_png__group24,"{""Class 2"": 2, ""Class 1"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 2
+DELIBERATION,TIE,clip_54_cropped_png,clip_54_cropped_png__group7,"{""Class 2"": 2, ""Reject Class"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Reject Class
+DELIBERATION,TIE,clip_54_cropped_png,clip_54_cropped_png__group8,"{""Reject Class"": 2, ""Class 2"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Reject Class
+DELIBERATION,TIE,clip_54_cropped_png,clip_54_cropped_png__group11,"{""Class 1"": 2, ""Class 2"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 2
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_54_cropped_png,clip_54_cropped_png__group15,"{""Class 1"": 1, ""Extra Class"": 1, ""Class 2"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 2
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_54_cropped_png,clip_54_cropped_png__group21,"{""Reject Class"": 1, ""Extra Class"": 2, ""Class 1"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Extra Class
+DELIBERATION,FULL_DISAGREEMENT,clip_54_cropped_png,clip_54_cropped_png__group23,"{""Reject Class"": 1, ""Extra Class"": 1, ""Class 2"": 1, ""Class 1"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,SPLIT_MINORITY,clip_54_cropped_png,clip_54_cropped_png__group24,"{""Extra Class"": 2, ""Reject Class"": 1, ""Class 2"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Extra Class
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_54_cropped_png,clip_54_cropped_png__group26,"{""Extra Class"": 2, ""Class 1"": 1, ""Class 2"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,TIE,clip_47_cropped_png,clip_47_cropped_png__group11,"{""Reject Class"": 2, ""Class 2"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Reject Class
+DELIBERATION,TIE,clip_47_cropped_png,clip_47_cropped_png__group12,"{""Class 2"": 2, ""Reject Class"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 2
+DELIBERATION,TIE,clip_47_cropped_png,clip_47_cropped_png__group16,"{""Class 1"": 2, ""Extra Class"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,TIE,clip_47_cropped_png,clip_47_cropped_png__group18,"{""Class 1"": 2, ""Extra Class"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,TIE,clip_47_cropped_png,clip_47_cropped_png__group20,"{""Extra Class"": 2, ""Class 1"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,TIE,clip_47_cropped_png,clip_47_cropped_png__group21,"{""Class 1"": 2, ""Extra Class"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,TIE,clip_47_cropped_png,clip_47_cropped_png__group23,"{""Class 1"": 2, ""Class 2"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 2
+DELIBERATION,TIE,clip_47_cropped_png,clip_47_cropped_png__group27,"{""Reject Class"": 2, ""Class 2"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Reject Class
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_47_cropped_png,clip_47_cropped_png__group28,"{""Class 1"": 2, ""Class 2"": 1, ""Extra Class"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 2
+DELIBERATION,TIE,clip_28_cropped_png,clip_28_cropped_png__group4,"{""Extra Class"": 2, ""Class 1"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,TIE,clip_28_cropped_png,clip_28_cropped_png__group5,"{""Extra Class"": 2, ""Class 1"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,TIE,clip_28_cropped_png,clip_28_cropped_png__group7,"{""Extra Class"": 2, ""Class 1"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Extra Class
+DELIBERATION,TIE,clip_28_cropped_png,clip_28_cropped_png__group12,"{""Extra Class"": 2, ""Class 1"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_28_cropped_png,clip_28_cropped_png__group13,"{""Extra Class"": 1, ""Class 1"": 2, ""Class 2"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,TIE,clip_28_cropped_png,clip_28_cropped_png__group16,"{""Class 2"": 2, ""Class 1"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,TIE,clip_28_cropped_png,clip_28_cropped_png__group22,"{""Class 1"": 2, ""Class 2"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 2
+DELIBERATION,TIE,clip_28_cropped_png,clip_28_cropped_png__group23,"{""Class 1"": 2, ""Class 2"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 2
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_28_cropped_png,clip_28_cropped_png__group25,"{""Class 1"": 2, ""Extra Class"": 1, ""Class 2"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,TIE,clip_28_cropped_png,clip_28_cropped_png__group28,"{""Class 1"": 2, ""Class 2"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 2
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_28_cropped_png,clip_28_cropped_png__group29,"{""Reject Class"": 1, ""Class 1"": 1, ""Class 2"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 2
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_48_cropped_png,clip_48_cropped_png__group9,"{""Reject Class"": 2, ""Class 2"": 1, ""Class 1"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Reject Class
+DELIBERATION,TIE,clip_48_cropped_png,clip_48_cropped_png__group10,"{""Class 1"": 2, ""Class 2"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 2
+DELIBERATION,TIE,clip_48_cropped_png,clip_48_cropped_png__group17,"{""Extra Class"": 2, ""Class 1"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,TIE,clip_48_cropped_png,clip_48_cropped_png__group18,"{""Extra Class"": 2, ""Class 1"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,TIE,clip_48_cropped_png,clip_48_cropped_png__group20,"{""Class 1"": 2, ""Extra Class"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_48_cropped_png,clip_48_cropped_png__group21,"{""Extra Class"": 2, ""Class 1"": 1, ""Class 2"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,TIE,clip_48_cropped_png,clip_48_cropped_png__group24,"{""Class 2"": 2, ""Class 1"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 2
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_48_cropped_png,clip_48_cropped_png__group27,"{""Extra Class"": 1, ""Class 1"": 2, ""Class 2"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,TIE,clip_48_cropped_png,clip_48_cropped_png__group28,"{""Class 1"": 2, ""Class 2"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 2
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_40_cropped_png,clip_40_cropped_png__group5,"{""Class 2"": 2, ""Reject Class"": 1, ""Class 1"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Reject Class
+DELIBERATION,TIE,clip_40_cropped_png,clip_40_cropped_png__group8,"{""Reject Class"": 2, ""Class 2"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Reject Class
+DELIBERATION,TIE,clip_40_cropped_png,clip_40_cropped_png__group11,"{""Reject Class"": 2, ""Class 2"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Reject Class
+DELIBERATION,TIE,clip_40_cropped_png,clip_40_cropped_png__group14,"{""Class 2"": 2, ""Extra Class"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 2
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_40_cropped_png,clip_40_cropped_png__group15,"{""Class 1"": 1, ""Extra Class"": 2, ""Class 2"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_40_cropped_png,clip_40_cropped_png__group17,"{""Class 1"": 1, ""Class 2"": 2, ""Extra Class"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 2
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_40_cropped_png,clip_40_cropped_png__group18,"{""Class 2"": 1, ""Class 1"": 1, ""Extra Class"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 2
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_40_cropped_png,clip_40_cropped_png__group19,"{""Extra Class"": 2, ""Class 1"": 1, ""Class 2"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_40_cropped_png,clip_40_cropped_png__group20,"{""Class 1"": 1, ""Class 2"": 2, ""Extra Class"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 2
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_40_cropped_png,clip_40_cropped_png__group21,"{""Extra Class"": 1, ""Class 1"": 2, ""Class 2"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,TIE,clip_40_cropped_png,clip_40_cropped_png__group22,"{""Class 1"": 2, ""Extra Class"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,TIE,clip_40_cropped_png,clip_40_cropped_png__group25,"{""Class 1"": 2, ""Class 2"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_40_cropped_png,clip_40_cropped_png__group26,"{""Extra Class"": 1, ""Class 1"": 2, ""Class 2"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,TIE,clip_40_cropped_png,clip_40_cropped_png__group27,"{""Class 1"": 2, ""Extra Class"": 2}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_40_cropped_png,clip_40_cropped_png__group28,"{""Class 1"": 2, ""Class 2"": 1, ""Extra Class"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 1
+DELIBERATION,ADJACENT_CLASS_CONFUSION,clip_40_cropped_png,clip_40_cropped_png__group29,"{""Class 2"": 2, ""Reject Class"": 1, ""Class 1"": 1}","[""IRA"", ""JADED"", ""KALOY"", ""RENZO""]",Class 2
