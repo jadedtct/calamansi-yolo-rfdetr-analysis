@@ -216,3 +216,20 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Raw member exports -- large binaries, not fit for git
+data/
+
+# Split/review images -- keep the folders' JSON/HTML, exclude only the photos
+output/splits/**/*.png
+output/splits/**/*.jpg
+output/splits/**/*.jpeg
+output/review_images/**/*.png
+output/roboflow_review_upload/**/*.png
+output/roboflow_review_upload_full/**/*.png
+
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
