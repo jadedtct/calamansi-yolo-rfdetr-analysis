@@ -1,0 +1,4 @@
+shapely>=2.0
+networkx>=3.0
+Pillow>=10.0
+iterative-stratification>=0.1.7
