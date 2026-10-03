@@ -216,3 +216,8 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Data directories
+cropped_images/
+extracted_clips/
+extracted_frames/
